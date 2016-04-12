@@ -1,0 +1,93 @@
+GSE10067_series_matrix.txtimp_info.txt
+lipase
+Found knockout in !Series_title	"Gene expression data from murine liver samples comparing hormone sensitive lipase (HSL) knockout mice vs. wildtype mice"
+GSE10168_series_matrix.txtimp_info.txt
+ET
+Found activation in !Series_title	"AhR activation by TCDD in the ET, cortical epithelial cell line"
+GSE10341_series_matrix.txtimp_info.txt
+Th
+Found deletion in !Series_summary	"The catecholamine norepinephrine is required for fetal survival, but its essential function is unknown.  When catecholamine-deficient [tyrosine hydroxylase (Th) null] mouse fetuses die at E13.5-E14.5, they resemble wild type fetuses exposed to hypoxia. They exhibit bradycardia (28% reduction in heart rate), thin ventricular myocardium (20% reduction in tissue), epicardial detachment, and death with vascular congestion, hemorrhage and edema. At E12.5, prior to the appearance of morphological deficits associated with Th deletion, catecholamine-deficient fetuses are preferentially killed by experimentally-induced hypoxia and have lower tissue pO2 than wild type siblings.  Catecholamine-deficient fetuses also induced HIF-1 target genes to a greater extent than wild type siblings, supporting the notion that null fetuses experience greater hypoxia or have an enhanced response to hypoxia. Hypoxia induces a 13-fold increase in plasma norepinephrine levels, which would be expected to increase heart rate, thereby, improving oxygen delivery in wild type mice. Surprisingly, increasing maternal oxygen (FiO2 33% or 63%) prevents the effects of catecholamine-deficiency, restoring heart rate, myocardial mass and survival of Th null fetuses.  We suggest that norepinephrine mediates fetal survival by maintaining oxygen homeostasis as vulnerability to constitutive hypoxia increases as fetal growth accelerates during normal development."
+GSE10587_series_matrix.txtimp_info.txt
+pendrin
+Found knockout in !Series_summary	"Determination of differential expression of genes in the stria vascularis of  pendrin (Slc26a4) heterozygous and knockout  mice before the onset of hearing at postnatal day 10 (P10)."
+GSE10587_series_matrix.txtimp_info.txt
+pendrin
+Found knockout in !Series_overall_design	"A total of Six samples  of stria vascularis RNA obtained from P10 mice were analyzed.  Triplicates from  pendrin (Slc26a4) heterozygous and knockout mice were run and analyzed."
+GSE10589_series_matrix.txtimp_info.txt
+pendrin
+Found knockout in !Series_summary	"Determination of differential expression of genes in the thyroid of pendrin (Slc26a4) heterozygous and knockout mice at a time point corresponding to maximal thyroid gland activity, postnatal day 15 (P15). "
+GSE10589_series_matrix.txtimp_info.txt
+pendrin
+Found knockout in !Series_overall_design	"A total of Six samples of thyroid RNA obtained from P15 mice were analyzed. Triplicates from pendrin (Slc26a4) heterozygous and knockout mice were run and analyzed."
+GSE10659_series_matrix.txtimp_info.txt
+cubilin
+Found knockout in !Series_summary	"Keywords: reduced folate carrier knockout, folate receptor, cubilin, megalin, embryos, gene expression, neural tube defect, chorioallantoic fusion"
+GSE10765_series_matrix.txtimp_info.txt
+IRAK
+Found stimulated in !Series_title	"Expression data from MALP-2-stimulated macrophages from wild-type, IRAK-2-/- and IRAK-1-/IRAK-2-/- mice"
+GSE11141_series_matrix.txtimp_info.txt
+NgR
+Found inhibition in !Series_summary	"The lack of axonal growth after injury in the adult central nervous system (CNS) is partly due to the presence of growth-inhibitory molecules associated with myelin and the intrinsic growth-state of the injured neurons. To date, three inhibitors have been identified in myelin: Myelin- Associated Glycoprotein (MAG), Nogo A, and Oligodendrocyte-Myelin glycoprotein (OMgp). These three proteins all appear to be located in the periaxonal surface of the myelin membrane placing them in an optimal location to mediate axon-glial interaction.  In addition, the three proteins have been shown to bind the same neuronal receptor, known as the Nogo-66 receptor (NgR).  It has been hypothesized that inhibition of NgR may be a strategy to increase regeneration, plasticity and functional recovery of the lesioned central nervous system. Strong NgR mRNA expression is observed in the hippocampal pyramidal cell layers (CA1-3) and the granular layer of the dentate gyrus.  It has been shown that animals exposed to entorhinal lesions show a biphasic regulation of NgR in the hippocampus, suggesting a tightly regulated mechanism mediated by this receptor.  We have access to a transgenic model to over-express NgR in forebrain hippocampal neurons. Preliminary results have shown a phenotypic response in behavior and some molecular markers, as result of NgR overexpression.  Knowledge of what genes are reacting in this novel transgenic model may provide insights into what pathways are affected by NgR to control synaptic plasticity in normal animals and during injury."
+GSE11149_series_matrix.txtimp_info.txt
+FAK
+Found knockout in !Series_summary	"1) Generate E11.5 mouse embryos that are either control (FAK+/flox) or NCC specific FAK knockout (Wnt1Cre;FAKflox/flox). 2) Determine genotype by PCR. 3) Dissect head and torax from the different genotypes. 4) Obtain NCC from dissected tissue by magnetic cell sorting using p75 antibody. 5) Prepare total RNA from speciments. We will pool the NCC from 3 different embryos of the same genotype, and send total RNA to TGEN for probe preparation, hybridization and array result analysis."
+GSE12419-GPL2884_series_matrix.txtimp_info.txt
+Arf
+Found deficient in !Series_summary	"The human CDKN2A locus encodes two distinct proteins, p16(INK4A) and p14(ARF) [mouse p19(Arf)], designated INK4A and ARF herein, that are translated from alternatively spliced mRNAs.  Human ARF is implicated as a tumor suppressor gene, mainly in association with the simultaneous deletion of INK4A.  However, questions remain as to whether loss of ARF alone is sufficient to drive tumorigenesis.  Here we report that mice deficient for Arf are susceptible to accelerated asbestos-induced malignant mesothelioma (MM).  MMs arising in Arf (+/-) mice consistently exhibit biallelic inactivation of Arf, but unexpectedly, do not acquire additional recurrent genetic alterations that we previously identified in asbestos-induced MMs arising in Nf2 (+/-) mice.  Array CGH analysis was used to detect a recurrent deletion at chromosome 4C6.  A candidate in this region, Faf1 (FAS-associated factor 1), was further explored because it encodes a protein implicated in tumor cell survival and in the pathogenesis of some human tumor types.  We confirmed hemizygous loss of Faf1 and down regulation of Faf1 protein in a series of MMs from Arf (+/-) mice, and then showed that Faf1 regulates TNFalpha-mediated NFkappaB signaling, a mechanism previously implicated in asbestos-induced oncogenesis of human mesothelial cells.  Collectively, these investigations divulge important information regarding the significance of Arf inactivation in MM pathogenesis, and implicate Faf1 as a key component in the TNFalpha/NFkappaB signaling node that has now been independently implicated in the asbestos-induced oncogenesis."
+GSE12419-GPL4092_series_matrix.txtimp_info.txt
+Arf
+Found deficient in !Series_summary	"The human CDKN2A locus encodes two distinct proteins, p16(INK4A) and p14(ARF) [mouse p19(Arf)], designated INK4A and ARF herein, that are translated from alternatively spliced mRNAs.  Human ARF is implicated as a tumor suppressor gene, mainly in association with the simultaneous deletion of INK4A.  However, questions remain as to whether loss of ARF alone is sufficient to drive tumorigenesis.  Here we report that mice deficient for Arf are susceptible to accelerated asbestos-induced malignant mesothelioma (MM).  MMs arising in Arf (+/-) mice consistently exhibit biallelic inactivation of Arf, but unexpectedly, do not acquire additional recurrent genetic alterations that we previously identified in asbestos-induced MMs arising in Nf2 (+/-) mice.  Array CGH analysis was used to detect a recurrent deletion at chromosome 4C6.  A candidate in this region, Faf1 (FAS-associated factor 1), was further explored because it encodes a protein implicated in tumor cell survival and in the pathogenesis of some human tumor types.  We confirmed hemizygous loss of Faf1 and down regulation of Faf1 protein in a series of MMs from Arf (+/-) mice, and then showed that Faf1 regulates TNFalpha-mediated NFkappaB signaling, a mechanism previously implicated in asbestos-induced oncogenesis of human mesothelial cells.  Collectively, these investigations divulge important information regarding the significance of Arf inactivation in MM pathogenesis, and implicate Faf1 as a key component in the TNFalpha/NFkappaB signaling node that has now been independently implicated in the asbestos-induced oncogenesis."
+GSE12421_series_matrix.txtimp_info.txt
+OBF
+Found overexpression in !Series_title	"Analysis of OBF-1 overexpression in early B cells"
+GSE12495_series_matrix.txtimp_info.txt
+Trsp
+Found knockout in !Series_title	"Wild type mice (Trsp) vs Trsp-knockout mice (DTrsp) or A34 or G37L or G37H transgenic mice"
+GSE12495_series_matrix.txtimp_info.txt
+Trsp
+Found mutant in !Series_summary	"Sec (selenocysteine) is biosynthesized on its tRNA and incorporated into selenium-containing proteins (selenoproteins) as the 21st amino acid residue. Selenoprotein synthesis is dependent on Sec tRNA and the expression of this class of proteins can be modulated by altering Sec tRNA expression. The gene encoding Sec tRNA (Trsp) is a single-copy gene and its targeted removal in liver demonstrated that selenoproteins are essential for proper function wherein their absence leads to necrosis and hepatocellular degeneration. In the present study, we found that the complete loss of selenoproteins in liver was compensated for by an enhanced expression of several phase II response genes and their corresponding gene products. The replacement of selenoprotein synthesis in mice carrying mutant Trsp transgenes, wherein housekeeping, but not stress-related selenoproteins are expressed, led to normal expression of phase II response genes. Thus the present study provides evidence for a functional link between housekeeping selenoproteins and phase II enzymes."
+GSE12495_series_matrix.txtimp_info.txt
+selenoprotein
+Found mutant in !Series_summary	"Sec (selenocysteine) is biosynthesized on its tRNA and incorporated into selenium-containing proteins (selenoproteins) as the 21st amino acid residue. Selenoprotein synthesis is dependent on Sec tRNA and the expression of this class of proteins can be modulated by altering Sec tRNA expression. The gene encoding Sec tRNA (Trsp) is a single-copy gene and its targeted removal in liver demonstrated that selenoproteins are essential for proper function wherein their absence leads to necrosis and hepatocellular degeneration. In the present study, we found that the complete loss of selenoproteins in liver was compensated for by an enhanced expression of several phase II response genes and their corresponding gene products. The replacement of selenoprotein synthesis in mice carrying mutant Trsp transgenes, wherein housekeeping, but not stress-related selenoproteins are expressed, led to normal expression of phase II response genes. Thus the present study provides evidence for a functional link between housekeeping selenoproteins and phase II enzymes."
+GSE12506_series_matrix.txtimp_info.txt
+TR
+Found induced in !Series_summary	"The concept of immune regulation/suppression has been well-established. With thymus-derived CD4 CD25  regulatory T (TR) cells, it became clear that a variety of additional peripherally induced TR cells play vital roles in protection from many harmful immune responses including intestinal inflammation. In the present study, we have analyzed in vivo-induced Ag-specific CD4 TR cells with respect to their molecular and functional phenotype. By comparative genomics we could show that these Ag-specific TR cells induced by chronic Ag stimulation in vivo clearly differ in their genetic program from naturally occurring thymus-derived CD4 CD25  TR cells. This distinct population of induced TR cells express neither CD25 nor the TR-associated transcription factor Foxp3. Strikingly, CD25 is not even up-regulated upon stimulation. Despite the lack in Foxp3 expression, these in vivo-induced CD25  TR cells are able to interfere with an Ag-specific CD8  T cell-mediated intestinal inflammation without significant increase in CD25 and Foxp3 expression. Thus, our results demonstrate that in vivo-induced Ag-specific TR cells represent a distinct population of Foxp3 CD25  TR cells with regulatory capacity both in vitro and in vivo."
+GSE12905_series_matrix.txtimp_info.txt
+Kit
+Found lacking in !Series_summary	"Comparison of Foxl2-null ovaries to wildtype ovaries, ovaries lacking Wnt4 or Kit, or testes, throughout mouse development."
+GSE12982_series_matrix.txtimp_info.txt
+Eed
+Found knockout in !Series_overall_design	"To assay the global effects of the loss of polycomb proteins (Ezh2 or Eed) in embryonic stem (ES) cells , we compared the expression profiles of homologuous Ezh2 or Eed knockout ES cells to wild-type ES cells in undifferentiated or differentiated condition."
+GSE13192_series_matrix.txtimp_info.txt
+LXR
+Found treated in !Series_overall_design	"To study the importance of each of the receptor subtypes, myotube cultures derived from wild type (WT), LXRa and LXRb knockout (KO) mice were established. Sixteen samples were examined. Half the samples were treated with the unselective LXR agonist T0901317."
+GSE13380_series_matrix.txtimp_info.txt
+ovalbumin
+Found induced in !Series_overall_design	"The analysis includes 9 samples of genomic DNA from isolated splenic CD11c+ dendritic cells (>95% pure) per group. The two groups are neonates born to mothers with induced allergy to ovalbumin, and normal control neonates. All neonates are genetically and environmentally identical, and allergen-naive."
+GSE13448_series_matrix.txtimp_info.txt
+Mef
+Found -/- in !Series_overall_design	"RNAs isolated from wild type, p53 -/- and p53 -/- Mef -/-  LSK cells were used in oligonucleotide arrays (Affymetrix) "
+GSE13707_series_matrix.txtimp_info.txt
+myostatin
+Found knockout in !Series_summary	"More than 2,000 genes appear to be upregulated or downregulated in skeletal muscle of mice with constitutive knockout of myostatin (Steelman et al., FASEB J 20:580-2, 2006). This study was done to determine whether inhibition of myostatin activity in mature mice has similar effects on the pattern of gene expression."
+GSE13753_series_matrix.txtimp_info.txt
+Rb
+Found knock-out in !Series_overall_design	"In one experiment, embryonic Day 13.5 placentas from wild-type and Rb -/- knock-out mice were compared. In the second experiment, embronic day 11.5 placentas from wild-type and Rb -/-;E2f4 -/- double knock-out mice were compared."
+GSE13753_series_matrix.txtimp_info.txt
+Rb
+Found -/- in !Series_overall_design	"In one experiment, embryonic Day 13.5 placentas from wild-type and Rb -/- knock-out mice were compared. In the second experiment, embronic day 11.5 placentas from wild-type and Rb -/-;E2f4 -/- double knock-out mice were compared."
+GSE14416_series_matrix.txtimp_info.txt
+ICSBP
+Found expressing in !Series_overall_design	"Total RNA was isolated from parental BaF3 cells as well as BaF3 cells expressing BCR-ABL, ICSBP, or both BCR-ABL and ICSBP. Using standard Affymetrix protocols the RNA samples were analyzed for gene expression using Affymetrix mouse 430_2 whole genome microarrays arrays. A threshold value of 50 was set for all genes and the list of genes filtered to include only those that had at least one Present flag (""P"" flag) in one of the 4 conditions. For each gene, the ratio of its expression in a particular condition and its expression in parental BaF3 cells was determined. Only genes that had at least a 3-fold up or down change in expression were considered, leaving a set of 1431 genes for further analysis. K-means clustering with Gene cluster 3.0 was used to group these 1431 genes into 15 clusters and JavaTree was used to visualize the results."
+GSE14418_series_matrix.txtimp_info.txt
+IgG
+Found treated in !Series_overall_design	"Cy3: B16F10 mouse melanoma cells, treated by unspecific goat IgG (control) for 2 hours."
+GSE14550_series_matrix.txtimp_info.txt
+podoplanin
+Found overexpressing in !Series_title	"Gene expression profiling of MCF7 breast cancer xenografts overexpressing podoplanin (human array)"
+GSE14551_series_matrix.txtimp_info.txt
+podoplanin
+Found overexpressing in !Series_title	"Gene expression profiling of tumor stroma of MCF7 breast cancer xenografts overexpressing podoplanin (mouse array)"
+GSE14920_series_matrix.txtimp_info.txt
+PPARalpha
+Found activation in !Series_summary	"Di-(2-ethylhexyl)-phthalate (DEHP), a widely used plasticizer, is detected in consumer’s body fluids. Contamination occurs through environmental and food chain sources. In mouse liver, DEHP activates the peroxisome proliferator-activated receptor alpha (PPARalpha) and regulates the expression of its target genes. Several in vitro investigations support the simultaneous recruitment of additional nuclear receptor pathways.  We investigated, in vivo, the hepatic impact of low doses of DEHP on PPARalpha activation, and the putative activation of additional signalling pathways. Wild-type and PPARalpha-deficient mice were exposed to different doses of DEHP. Gene expression profiling delineated the role of PPARalpha and revealed a PPARalpha-independent regulation of several prototypic Constitutive Androstane Receptor (CAR) target genes.   This finding demonstrates that CAR also represents a transcriptional regulator sensitive to phthalates. CAR-mediated effects of DEHP provide a new rationale for most endpoints of phthalates toxicity described previously, including endocrine disruption, hepatocarcinogenesis and the metabolic syndrome."

@@ -1,0 +1,4 @@
+-/-GSE10341_series_matrix.txtimp_info.txt
+Th r is 1 
+Found -/- in !Series_overall_design	"The first aim was to compare gene expression of E12.5 mouse fetuses between wild type (Th+/+) versus tyrosine hydroxylase null (Th-/-) animals from normoxic dams. This resulted in 6 arrays."
+-/-

@@ -1,0 +1,33 @@
+GSE10341_series_matrix.txtimp_info.txt
+Th r is 4 
+Found deficient in !Series_summary	"The catecholamine norepinephrine is required for fetal survival, but its essential function is unknown.  When catecholamine-deficient [tyrosine hydroxylase (Th) null] mouse fetuses die at E13.5-E14.5, they resemble wild type fetuses exposed to hypoxia. They exhibit bradycardia (28% reduction in heart rate), thin ventricular myocardium (20% reduction in tissue), epicardial detachment, and death with vascular congestion, hemorrhage and edema. At E12.5, prior to the appearance of morphological deficits associated with Th deletion, catecholamine-deficient fetuses are preferentially killed by experimentally-induced hypoxia and have lower tissue pO2 than wild type siblings.  Catecholamine-deficient fetuses also induced HIF-1 target genes to a greater extent than wild type siblings, supporting the notion that null fetuses experience greater hypoxia or have an enhanced response to hypoxia. Hypoxia induces a 13-fold increase in plasma norepinephrine levels, which would be expected to increase heart rate, thereby, improving oxygen delivery in wild type mice. Surprisingly, increasing maternal oxygen (FiO2 33% or 63%) prevents the effects of catecholamine-deficiency, restoring heart rate, myocardial mass and survival of Th null fetuses.  We suggest that norepinephrine mediates fetal survival by maintaining oxygen homeostasis as vulnerability to constitutive hypoxia increases as fetal growth accelerates during normal development."
+GSE10341_series_matrix.txtimp_info.txt
+Th r is 1 
+Found -/- in !Series_overall_design	"The first aim was to compare gene expression of E12.5 mouse fetuses between wild type (Th+/+) versus tyrosine hydroxylase null (Th-/-) animals from normoxic dams. This resulted in 6 arrays."
+GSE10341_series_matrix.txtimp_info.txt
+tyrosine hydroxylase r is 5 
+Found -/- in !Series_overall_design	"The first aim was to compare gene expression of E12.5 mouse fetuses between wild type (Th+/+) versus tyrosine hydroxylase null (Th-/-) animals from normoxic dams. This resulted in 6 arrays."
+GSE10341_series_matrix.txtimp_info.txt
+Th r is 2 
+Found null in !Series_overall_design	"The first aim was to compare gene expression of E12.5 mouse fetuses between wild type (Th+/+) versus tyrosine hydroxylase null (Th-/-) animals from normoxic dams. This resulted in 6 arrays."
+GSE10341_series_matrix.txtimp_info.txt
+tyrosine hydroxylase r is 2 
+Found null in !Series_overall_design	"The first aim was to compare gene expression of E12.5 mouse fetuses between wild type (Th+/+) versus tyrosine hydroxylase null (Th-/-) animals from normoxic dams. This resulted in 6 arrays."
+GSE10341_series_matrix.txtimp_info.txt
+tyrosine hydroxylase r is 2 
+Found null in !Series_overall_design	"The second aim compared wild type and tyrosine hydroxylase null E12.5 fetuses from dam exposed to hypoxia (8% oxygen) for 6 hours prior to sacrifice at E12.5 of gestation. This resulted in 6 arrays."
+GSE10389-GPL81_series_matrix.txtimp_info.txt
+beta c r is 2 
+Found stimulated in !Series_summary	"STAT5A and STAT5B proteins belong to the family of signal transducers and activators of transcription. They are encoded by 2 separate genes with 91% identity in their amino acid sequences. Despite their high degree of conservation, STAT5A and STAT5B exert non-redundant functions, resulting at least in part from differences in target gene activation. To better characterize the differential contribution of STAT5A and STAT5B in gene regulation, we performed single or double knock-down of STAT5A and STAT5B using small interfering RNA. Subsequent gene expression profiling and RT-qPCR analyses of IL-3-stimulated Ba/F3-beta cells led to the identification of putative novel STAT5 target genes. Chromatin immunoprecipitation assays analyzing the corresponding gene loci identified unusual STAT5 binding sites compared to conventional STAT5 responsive elements. Some of the STAT5 targets identified are upregulated in several human cancers, suggesting that they might represent potential oncogenes in STAT5-associated malignancies."
+GSE10421_series_matrix.txtimp_info.txt
+Smad4 r is 3 
+Found deficient in !Series_summary	"Results: Among 1419 transcripts significantly modulated by the dietary iron content, four were regulated similarly to the hepcidin genes Hamp1 and Hamp2. They are coding for Bmp6, the regulator of Bmp/Smad signal transduction Smad7, the negative regulator of basic helix-loop-helix (bHLH) proteins Id1, and a protein with a bHLH domain, Atoh8. The iron overload developed by Smad4 and Hamp1-deficient mice also increased Bmp6 transcription. Body iron stores influence Smad1/5/8 phosphorylation and, as shown by analysis of mice with liver-specific disruption of Smad4, the binding partner for the receptor-activated Smads is necessary for activation of Smad7, Id1, and Atoh8 transcription by iron."
+GSE13493_series_matrix.txtimp_info.txt
+Rag2 r is 1 
+Found deficient in !Series_title	"Expression data from developing thymocytes of N15TCR transgenic Rag2 deficient mice"
+GSE13493_series_matrix.txtimp_info.txt
+Rag2 r is 1 
+Found deficient in !Series_summary	"We used microarrays to identify the genes differentially expressed during CD8 single positive T cell development in N15 TCR transgenic Rag2 deficient mice."
+GSE13493_series_matrix.txtimp_info.txt
+H-2 r is 2 
+Found -/- in !Series_overall_design	"We have analyzed gene expression in the individual populations as development proceeds from DP, intermediate (Int), to SP subsets. To this end, we sorted the individual populations from six age and sex matched 5-6 week old N15 TCR tg+/+ RAG-2-/- H-2b mice for two independent experiments. For sorting subpopulations, cells were stained with anti-CD4 (L3T4) and anti-CD8 (Ly-2) antibodies (Pharmingen, San Diego, CA USA) and DP, Int and SP thymocytes were sorted on a MoFlo (Cytomation, Fort Collins, CO USA)."

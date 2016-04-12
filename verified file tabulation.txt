@@ -1,0 +1,288 @@
+FILE	GENE MANIPULATED	MANIPULATION	NOTES
+10001	NCoR	DOWN
+10051	NONE	NONE
+10101	NONE	NONE
+10151	NONE	NONE
+10201	NONE	NONE
+10251	NONE	NONE
+10301			not enough info to decide
+10351			not enough info to decide
+10401	E2F4	DOWN
+10501	NONE	NONE	Fe was manipulated
+10601	CD40	DOWN	T cells (CD40L+) were used to induce this
+10651	NONE	NONE	not enough info to decide
+10701	NONE	NONE	not enough info to decide
+10801	Avr2	UP	Avr2 from another organism expressed in Arabido, transgene
+10851	NONE	NONE
+10901	Rep2	DOWN	HU was also provided
+10951	NONE	NONE
+11001	NONE	NONE`
+11051	NONE	NONE
+11101	NONE	NONE
+11151	NONE	NONE
+11201	NONE	NONE
+11251	NONE	NONE
+11301	NONE	NONE
+11351	NONE	NONE	peroxide stress was also checked
+11451	OsGLK1	UP
+11501	NONE	NONE
+11551	NONE	NONE
+11651	NONE	NONE
+11701	miR-205	UP
+11801	NONE	NONE
+11851	NONE	NONE
+11901	NONE	NONE
+11951	CD146	DOWN
+12001	miR-223	DOWN
+12051	NONE	NONE
+12101	upf1-1, upf3-1	DOWN
+12151	NONE	NONE
+12201	NONE	NONE
+12251	NONE	NONE	Infliximab studied, its a commercial antibody
+12301	NONE	NONE
+12351	NONE	NONE	associated-mRNA study
+12401	ged1	DOWN
+12501	NONE	NONE
+12551	NONE	NONE	transgenic lines treated with mock/Dex
+12601	NONE	NONE
+12651	NONE	NONE
+12701	yjgK	DOWN
+12751	NONE	NONE
+12801	NONE	NONE
+12851	NONE	NONE
+12901	NONE	NONE
+12951	NONE	NONE
+13051	NONE	NONE
+13101	NONE	NONE
+13151			not enough info to decide
+13201	NONE	NONE
+13251	NONE	NONE
+13301	NONE	NONE
+13401	HSP90	DOWN
+13451	NONE	NONE
+13551	NONE	NONE
+13601	NONE	NONE
+13701	bre1	DOWN
+13801	NONE	NONE
+13851	NONE	NONE
+13901	NONE	NONE
+14001	NONE	NONE
+14051	E6,E7	UP	present, not up
+14101	Meis1	DOWN
+14201	Asc12	DOWN	not sure if UP is also checked
+14251	NtmybA2	UP	there is also another sample having a modification on top of this
+14301	NONE	NONE
+14351	NONE	NONE
+14451	NONE	NONE
+14501	mkkkC5	DOWN	not sure if MKK2EE is upregulated too
+14551	podoplanin	UP	ectopic expression
+14601	NONE	NONE
+14651	NONE	NONE	chip
+14701	NONE	NONE	compare 2 cell lines
+14751	NONE	NONE	quinine treatment
+14801	ERG	DOWN
+14851	NONE	NONE
+14901	NONE	NONE
+14951	NONE	NONE
+15001	NONE	NONE
+15051	NONE	NONE
+15151	STK33	DOWN
+15201	NONE	NONE
+15251	NONE	NONE	hey did express HBx which is a viral protein to induce HCC
+15351	NONE	NONE
+15401	NONE	NONE
+15451	NONE	NONE
+15501	NONE	NONE	chip
+15551	NONE	NONE
+15601	NONE	NONE
+15651	DsigB	DOWN
+15701	NONE	NONE	chip
+15751	Xam	UP	infected, not exactly upregulated
+15851	miR-310,miR-311, miR-312, miR-313	DOWN
+15901	NONE	NONE
+15951	DEL1	UP	external coating
+16001	NONE	NONE	DES (a Xenoestrogen) was provided. its a compound
+16051	K13	UP	ectopic expression
+16101	NONE	NONE
+16151	NONE	NONE
+16251	interferons a,b,w,g, IL22, TNFa	UP	stimulated
+16301	NONE	NONE
+16351	NONE	NONE
+16401	NONE	NONE
+16451	NONE	NONE
+16501	NONE	NONE
+16551	NONE	NONE
+16601	NONE	NONE
+16651	NONE	NONE
+16751	AID	DOWN	using BCR-ABL1 fusion gene model for ALL
+16801	NONE	NONE
+16901	NONE	NONE
+17001	NONE	NONE
+17101	NONE	NONE
+17151	NONE	NONE	IRE1alpha was mutated but drug was also given
+17201	NONE	NONE
+17251	PPARA	UP
+17301	NONE	NONE	IFN alpha was mutated but other factors were also there
+17351	NONE	NONE
+17401	NONE	NONE
+17451	NONE	NONE	eIF4E is knocked in but its phosphorylation is also disallowed
+17501	NONE	NONE
+17551	Pirin	DOWN
+17601	NONE	NONE
+17651	NONE	NONE
+17751	Pten	DOWN	doubtful, this was studied in radiation induced lymphomas
+17801	NONE	NONE
+17851	NONE	NONE	there is both STAT6 and IL-4 mutated
+17901	NONE	NONE	both angiotensin and Apoe were involved
+18001	Toc1	DOWN
+18051	NONE	NONE
+18151	NONE	NONE
+18201	NONE	NONE
+18251	NONE	NONE
+18301	NONE	NONE
+18351	NONE	NONE	SAHM1 treatment is given which is a peptide not gene
+18401	Androgen	UP	artificial androgen externally provided
+18451	NONE	NONE	LuxS01 is mutated but culture medium is also changed
+18501	CDK/PHA-848125	UP	treated with
+18551	NONE	NONE	doubtful, YAC128 is a mouse model that just happens to express Huntingtin prt
+18601	m596, e1368,e1370	DOWN	reduction of function alleles used
+18651	miR-29	DOWN'
+18701	NONE	NONE
+18751	NONE	NONE
+18801	NONE	NONE
+18851	NONE	NONE
+18951	phosphofructokinase	UP	provided
+19001	NONE	NONE
+19051	NONE	NONE	virus
+19101	NONE	NONE	Cn-AML disease
+19151	NONE	NONE	thromboembolism disease
+19201	ATRA	UP	its RA though
+19251	NONE	NONE
+19351	NONE	NONE	DNR reatment
+19401	NONE	NONE
+19451			not enough info
+19501	NONE	NONE
+19551	NONE	NONE
+19601	NONE	NONE	smad deficient cells
+19701	NONE	NONE
+19751	sprunt-1	DOWN
+19851	prc2	DOWN
+19901	c-Myb	DOWN
+19951	ICN1	DOWN	used many diff celss though
+30001	NONE	NONE
+30051	NONE	NONE
+30101	NONE	NONE
+30151	NONE	NONE	another condition - drought
+30201	NONE	NONE
+30251	NONE	NONE
+30301	NONE	NONE
+30351	NONE	NONE	chloroquine
+30401	NONE	NONE
+30451	NONE	NONE'
+30501	PAX2	DOWN	cancer
+30551	NONE	NONE
+30601	NONE	NONE
+30651	c-Met	DOWN
+30701	NONE	NONE
+30751	rcsC,B	DOWN
+30801	NONE	NONE	benzene
+30851	NONE	NONE
+30901	NONE	NONE			
+30951	TLR3	DOWN			
+31001	NONE	NONE			
+31051	NONE	NONE			
+31101	NONE	NONE			
+31151	NONE	NONE	chip		
+31201	NONE	NONE			
+31251	HDAC3	DOWN			
+31301	NONE	NONE	chip		
+31351	CT16	DOWN			
+31401	Drosdel	DOWN			
+31451	NONE	NONE			
+31501	NONE	NONE	virus		
+31551	Notch2	DOWN			
+31601	NONE	NONE			
+31651	NONE	NONE			
+31701	NONE	NONE'			
+31751	mir-493	UP	mirna provided		
+31801	NONE	NONE	cancer disease		
+31851	NONE	NONE'			
+31901	NONE	NONE			
+31951	NONE	NONE	chip		
+32001	NONE	NONE			
+32051	Capicua	DOWN			
+32101	NONE	NONE			
+32151	Lr1	UP'	transgenic		
+32201	eIF2B-R132H/R132H	DOWN			
+32251	NONE	NONE			
+32301	NONE	NONE	another treatment - drug		
+32351	NONE	NONE chip			
+32401	Tnni2del175k	DOWN			
+32451	NONE	NONE drug			
+32501	FHL2	UP			
+32551	NONE	NONE			
+32601	NONE	NONE	wolbachia induced		
+32651	NONE	NONE			
+32701	NONE	NONE EMT, cancer			
+32751	NONE	NONE			
+32801	NONE	NONE			
+32851	NONE	NONE			
+32901	Th1	UP+DOWN+Normal			
+32951	Krt1	DOWN			
+33001	NONE	NONE	drug		
+33051	NONE	NONE			
+33101	Sirt1/PPARalpha	UP	double gene		
+33151	NONE	NONE			
+33201	NONE	NONE			
+33251	NONE	NONE	virus		
+33301	COUP-TFII	DOWN			
+33351	NONE	NONE	virus		
+33401	NONE	NONE			
+33451	hCLS1	UP	transgene		
+33501	NONE	NONE			
+33551	NONE	NONE			
+33601	NONE	NONE	disease		
+33651	NONE	NONE	cancer		
+33701	NONE	NONE			
+33751			not enough info		
+33801	NONE	NONE			
+33851	E2, BFA	UP	not genes though		
+33901	NONE	NONE	another treatment - LPS		
+33951	ABI3	UP	transgenic 		
+
+10825	NONE	NONE
+10025	NONE	NONE	cancer
+10125	NONE	NONE
+10075	NONE	NONE	drug
+10225	NONE	NONE	two condition
+10325	NONE	NONE
+10175	Tcfap2c	DOWN
+10425	NONE	NONE	arsenate stress
+10475	NONE	NONE	nitrate stress
+10525	NONE	NONE	TRAMP (a kind of cancer)
+10625	NONE	NONE
+10725	NONE	NONE	diff concs of 2 hormones used together
+10575	NONE	NONE
+10675	NONE	NONE	drug
+10775	NONE	NONE	2 things - NRG and IGF
+10875	NONE	NONE	drug
+	
+
+10029	TNFa	UP	on NOD mice cells
+10902	FHL2	DOWN
+12315	Gpx1,2	DOWN	double knockout
+18980	APK1,2	DOWN	double knockout
+31581	ECAT15-1,15-2	DOWN	double knockout
+31582	ECAT15-1,15-2	DOWN	double knockout
+31583	ECAT15-1,15-2	DOWN	double knockout
+11115	NONE	NONE	ER, E2 and TNFa are all used
+12438	NONE	NONE	HDAC genes are mutated along with R1881 addition
+13538	MEF2	UP	
+14869	NONE	NONE	heat shock
+19841	NONE	NONE	NEMO protein interactome (prts interatcing with it)
+33323			not enough info to decide
+12285	IL-1	UP
+12904	NONE	NONE	trenbolobe (a drug) was chcked for
+13105	NONE	NONE	mir-192, mir-295 are mutated but Dicer is also mutated
+13210	CD9	UP	introduced using vector
+13380	NONE	NONE	aerosols were provided and the analysis was epigenomic
