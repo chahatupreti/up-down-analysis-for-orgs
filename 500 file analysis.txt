@@ -1,0 +1,1945 @@
+1
+--- 0.153000116348 seconds ---
+NOT MOUSE
+2
+--- 0.153000116348 seconds ---
+NOT MOUSE
+3
+--- 0.153000116348 seconds ---
+[]
+GSE10026-GPL1261_series_matrix.txtimp_info.txt
+match not found yet for these rules
+4
+--- 0.153000116348 seconds ---
+NOT MOUSE
+5
+--- 0.153000116348 seconds ---
+sac -/-
+sac mutant
+--fullstop
+sac knockout
+keyword start7
+sacs mutant
+--fullstop
+[(1.83, 'sac')]
+GSE10113_series_matrix.txtimp_info.txt
+the GS modified is 'sac' with confidence 1.830000
+6
+--- 1.15700006485 seconds ---
+NOT MOUSE
+7
+--- 1.15700006485 seconds ---
+NOT MOUSE
+8
+--- 1.15700006485 seconds ---
+emx2 ko
+emx2 ko
+[]
+GSE10216_series_matrix.txtimp_info.txt
+match not found yet for these rules
+9
+--- 1.29500007629 seconds ---
+NOT MOUSE
+10
+--- 1.29500007629 seconds ---
+NOT MOUSE
+11
+--- 1.29500007629 seconds ---
+[]
+GSE10416_series_matrix.txtimp_info.txt
+match not found yet for these rules
+12
+--- 1.29500007629 seconds ---
+NOT MOUSE
+13
+--- 1.29500007629 seconds ---
+NOT MOUSE
+14
+--- 1.29500007629 seconds ---
+NOT MOUSE
+15
+--- 1.29500007629 seconds ---
+NOT MOUSE
+16
+--- 1.29500007629 seconds ---
+NOT MOUSE
+17
+--- 1.29500007629 seconds ---
+[]
+GSE10565_series_matrix.txtimp_info.txt
+match not found yet for these rules
+18
+--- 1.29500007629 seconds ---
+NOT MOUSE
+19
+--- 1.29500007629 seconds ---
+NOT MOUSE
+20
+--- 1.29500007629 seconds ---
+NOT MOUSE
+21
+--- 1.29500007629 seconds ---
+NOT MOUSE
+22
+--- 1.29500007629 seconds ---
+NOT MOUSE
+23
+--- 1.29500007629 seconds ---
+NOT MOUSE
+24
+--- 1.29500007629 seconds ---
+NOT MOUSE
+25
+--- 1.29500007629 seconds ---
+NOT MOUSE
+26
+--- 1.29500007629 seconds ---
+beta-catenin mutant
+line start7
+ctnnb1 mutant
+krt14 mutant
+[(3.71, 'beta-catenin')]
+GSE10726_series_matrix.txtimp_info.txt
+the GS modified is 'beta-catenin' with confidence 3.710000
+27
+--- 1.59500002861 seconds ---
+[]
+GSE10776_series_matrix.txtimp_info.txt
+match not found yet for these rules
+28
+--- 2.15799999237 seconds ---
+NOT MOUSE
+29
+--- 2.15799999237 seconds ---
+NOT MOUSE
+30
+--- 2.15799999237 seconds ---
+[]
+GSE10813_series_matrix.txtimp_info.txt
+match not found yet for these rules
+31
+--- 2.51200008392 seconds ---
+NOT MOUSE
+32
+--- 2.51200008392 seconds ---
+[]
+GSE10881_series_matrix.txtimp_info.txt
+match not found yet for these rules
+33
+--- 2.51200008392 seconds ---
+[]
+GSE10913_series_matrix.txtimp_info.txt
+match not found yet for these rules
+34
+--- 2.51200008392 seconds ---
+NOT MOUSE
+35
+--- 2.51200008392 seconds ---
+NOT MOUSE
+36
+--- 2.51200008392 seconds ---
+NOT MOUSE
+37
+--- 2.51200008392 seconds ---
+NOT MOUSE
+38
+--- 2.51200008392 seconds ---
+NOT MOUSE
+39
+--- 2.51200008392 seconds ---
+[]
+GSE11077-GPL5811_series_matrix.txtimp_info.txt
+match not found yet for these rules
+40
+--- 2.51200008392 seconds ---
+NOT MOUSE
+41
+--- 2.51200008392 seconds ---
+NOT MOUSE
+42
+--- 2.51200008392 seconds ---
+NOT MOUSE
+43
+--- 2.51200008392 seconds ---
+NOT MOUSE
+44
+--- 2.51200008392 seconds ---
+NOT MOUSE
+45
+--- 2.51200008392 seconds ---
+[]
+GSE11339_series_matrix.txtimp_info.txt
+match not found yet for these rules
+46
+--- 2.51200008392 seconds ---
+NOT MOUSE
+47
+--- 2.51200008392 seconds ---
+[]
+GSE11384_series_matrix.txtimp_info.txt
+match not found yet for these rules
+48
+--- 2.51200008392 seconds ---
+NOT MOUSE
+49
+--- 2.51200008392 seconds ---
+NOT MOUSE
+50
+--- 2.51200008392 seconds ---
+NOT MOUSE
+51
+--- 2.51200008392 seconds ---
+NOT MOUSE
+52
+--- 2.51200008392 seconds ---
+NOT MOUSE
+53
+--- 2.51200008392 seconds ---
+protein kinase inhibition
+[]
+GSE11576-GPL6449_series_matrix.txtimp_info.txt
+match not found yet for these rules
+54
+--- 3.31399989128 seconds ---
+[]
+GSE11584_series_matrix.txtimp_info.txt
+match not found yet for these rules
+55
+--- 3.31399989128 seconds ---
+[]
+GSE11589_series_matrix.txtimp_info.txt
+match not found yet for these rules
+56
+--- 3.31399989128 seconds ---
+NOT MOUSE
+57
+--- 3.31399989128 seconds ---
+NOT MOUSE
+58
+--- 3.31399989128 seconds ---
+NOT MOUSE
+59
+--- 3.31399989128 seconds ---
+[]
+GSE11667_series_matrix.txtimp_info.txt
+match not found yet for these rules
+60
+--- 3.31399989128 seconds ---
+NOT MOUSE
+61
+--- 3.31399989128 seconds ---
+NOT MOUSE
+62
+--- 3.31399989128 seconds ---
+NOT MOUSE
+63
+--- 3.31399989128 seconds ---
+ppardelta treated
+[]
+GSE11803_series_matrix.txtimp_info.txt
+match not found yet for these rules
+64
+--- 3.41300010681 seconds ---
+NOT MOUSE
+65
+--- 3.41300010681 seconds ---
+NOT MOUSE
+66
+--- 3.41300010681 seconds ---
+NOT MOUSE
+67
+--- 3.41300010681 seconds ---
+NOT MOUSE
+68
+--- 3.41300010681 seconds ---
+NOT MOUSE
+69
+--- 3.41300010681 seconds ---
+NOT MOUSE
+70
+--- 3.41300010681 seconds ---
+[]
+GSE12000-GPL3677_series_matrix.txtimp_info.txt
+match not found yet for these rules
+71
+--- 3.99699997902 seconds ---
+[]
+GSE12036_series_matrix.txtimp_info.txt
+match not found yet for these rules
+72
+--- 4.07800006866 seconds ---
+NOT MOUSE
+73
+--- 4.07800006866 seconds ---
+NOT MOUSE
+74
+--- 4.07800006866 seconds ---
+NOT MOUSE
+75
+--- 4.07800006866 seconds ---
+NOT MOUSE
+76
+--- 4.07800006866 seconds ---
+NOT MOUSE
+77
+--- 4.07800006866 seconds ---
+NOT MOUSE
+78
+--- 4.07800006866 seconds ---
+NOT MOUSE
+79
+--- 4.07800006866 seconds ---
+NOT MOUSE
+80
+--- 4.07800006866 seconds ---
+il-1 treated
+ap activation
+il-1 activation
+c/ebpbeta induced
+--fullstop
+il-1 induced
+induced three
+induced five
+il-1 expressing
+--fullstop
+il-1 treated
+il-1 treatment
+[(5.202999999999999, 'il-1')]
+GSE12285_series_matrix.txtimp_info.txt
+the GS modified is 'il-1' with confidence 5.203000
+81
+--- 4.66499996185 seconds ---
+NOT MOUSE
+82
+--- 4.66499996185 seconds ---
+NOT MOUSE
+83
+--- 4.66499996185 seconds ---
+NOT MOUSE
+84
+--- 4.66499996185 seconds ---
+[]
+GSE12400-GPL7152_series_matrix.txtimp_info.txt
+match not found yet for these rules
+85
+--- 4.66499996185 seconds ---
+NOT MOUSE
+86
+--- 4.66499996185 seconds ---
+wnt3a treated
+[]
+GSE12441_series_matrix.txtimp_info.txt
+match not found yet for these rules
+87
+--- 5.09400010109 seconds ---
+NOT MOUSE
+88
+--- 5.09400010109 seconds ---
+NOT MOUSE
+89
+--- 5.09400010109 seconds ---
+NOT MOUSE
+90
+--- 5.09500002861 seconds ---
+NOT MOUSE
+91
+--- 5.09500002861 seconds ---
+NOT MOUSE
+92
+--- 5.09500002861 seconds ---
+myc deficient
+deficient one
+n-myc deficient
+deficient one
+[(3.45, 'myc'), (3.45, 'n-myc')]
+GSE12538_series_matrix.txtimp_info.txt
+the GS modified is 'myc' with confidence 3.450000
+93
+--- 5.13000011444 seconds ---
+NOT MOUSE
+94
+--- 5.13000011444 seconds ---
+NOT MOUSE
+95
+--- 5.13000011444 seconds ---
+NOT MOUSE
+96
+--- 5.13000011444 seconds ---
+NOT MOUSE
+97
+--- 5.13000011444 seconds ---
+[]
+GSE12723_series_matrix.txtimp_info.txt
+match not found yet for these rules
+98
+--- 5.13000011444 seconds ---
+NOT MOUSE
+99
+--- 5.13000011444 seconds ---
+NOT MOUSE
+100
+--- 5.13000011444 seconds ---
+foxl2 loss of
+foxl2 lacking
+[]
+GSE12942_series_matrix.txtimp_info.txt
+match not found yet for these rules
+101
+--- 5.67300009727 seconds ---
+NOT MOUSE
+102
+--- 5.67300009727 seconds ---
+NOT MOUSE
+103
+--- 5.6740000248 seconds ---
+NOT MOUSE
+104
+--- 5.6740000248 seconds ---
+NOT MOUSE
+105
+--- 5.6740000248 seconds ---
+NOT MOUSE
+106
+--- 5.6740000248 seconds ---
+NOT MOUSE
+107
+--- 5.67499995232 seconds ---
+NOT MOUSE
+108
+--- 5.67499995232 seconds ---
+[]
+GSE13208_series_matrix.txtimp_info.txt
+match not found yet for these rules
+109
+--- 5.76799988747 seconds ---
+NOT MOUSE
+110
+--- 5.76799988747 seconds ---
+NOT MOUSE
+111
+--- 5.76799988747 seconds ---
+hoxa3 treated
+[]
+GSE13324_series_matrix.txtimp_info.txt
+match not found yet for these rules
+112
+--- 5.91499996185 seconds ---
+NOT MOUSE
+113
+--- 5.91499996185 seconds ---
+nxf2 ko
+nxf2 ko
+nxf2 mutant
+nxf2 ko
+nxf2 ko
+nxf2 ko
+testis weight ko
+nxf2 ko
+testis weight ko
+[]
+GSE13526_series_matrix.txtimp_info.txt
+match not found yet for these rules
+114
+--- 6.24699997902 seconds ---
+NOT MOUSE
+115
+--- 6.24699997902 seconds ---
+NOT MOUSE
+116
+--- 6.24699997902 seconds ---
+crhr1 knockout
+crhr1 knockout
+crhr1 ko
+crhr1 ko
+crhr1 ko
+crhr1 ko
+crhr1 treated
+crhr1 ko
+crhr1 ko
+[]
+GSE13665_series_matrix.txtimp_info.txt
+match not found yet for these rules
+117
+--- 7.18400001526 seconds ---
+NOT MOUSE
+118
+--- 7.18400001526 seconds ---
+NOT MOUSE
+119
+--- 7.18400001526 seconds ---
+NOT MOUSE
+120
+--- 7.18400001526 seconds ---
+NOT MOUSE
+121
+--- 7.18400001526 seconds ---
+NOT MOUSE
+122
+--- 7.18400001526 seconds ---
+NOT MOUSE
+123
+--- 7.18400001526 seconds ---
+[]
+GSE13799_series_matrix.txtimp_info.txt
+match not found yet for these rules
+124
+--- 7.18400001526 seconds ---
+NOT MOUSE
+125
+--- 7.18400001526 seconds ---
+estrogen receptor knockout
+estrogen receptor knock-out
+[]
+GSE13859_series_matrix.txtimp_info.txt
+match not found yet for these rules
+126
+--- 7.40000009537 seconds ---
+pparg deficient
+g2 deficient
+pparg knockout
+pparg ko
+pparg ko
+pparg knockout
+[]
+GSE13867_series_matrix.txtimp_info.txt
+match not found yet for these rules
+127
+--- 8.31900000572 seconds ---
+NOT MOUSE
+128
+--- 8.31900000572 seconds ---
+[]
+GSE13908_series_matrix.txtimp_info.txt
+match not found yet for these rules
+129
+--- 8.31900000572 seconds ---
+NOT MOUSE
+130
+--- 8.31900000572 seconds ---
+[]
+GSE13946_series_matrix.txtimp_info.txt
+match not found yet for these rules
+131
+--- 8.43400001526 seconds ---
+NOT MOUSE
+132
+--- 8.43400001526 seconds ---
+NOT MOUSE
+133
+--- 8.43400001526 seconds ---
+NOT MOUSE
+134
+--- 8.43400001526 seconds ---
+NOT MOUSE
+135
+--- 8.43400001526 seconds ---
+NOT MOUSE
+136
+--- 8.43400001526 seconds ---
+NOT MOUSE
+137
+--- 8.43400001526 seconds ---
+NOT MOUSE
+138
+--- 8.43400001526 seconds ---
+NOT MOUSE
+139
+--- 8.43400001526 seconds ---
+NOT MOUSE
+140
+--- 8.43400001526 seconds ---
+NOT MOUSE
+141
+--- 8.43400001526 seconds ---
+NOT MOUSE
+142
+--- 8.43400001526 seconds ---
+NOT MOUSE
+143
+--- 8.43400001526 seconds ---
+NOT MOUSE
+144
+--- 8.43400001526 seconds ---
+raf induced
+c-raf induced
+raf induced
+c-raf induced
+[]
+GSE14277_series_matrix.txtimp_info.txt
+match not found yet for these rules
+145
+--- 9.11999988556 seconds ---
+[]
+GSE14290_series_matrix.txtimp_info.txt
+match not found yet for these rules
+146
+--- 9.38400006294 seconds ---
+[]
+GSE14308_series_matrix.txtimp_info.txt
+match not found yet for these rules
+147
+--- 9.56599998474 seconds ---
+cd68 overexpressing
+il-10 overexpressing
+[]
+GSE14316_series_matrix.txtimp_info.txt
+match not found yet for these rules
+148
+--- 9.70399999619 seconds ---
+NOT MOUSE
+149
+--- 9.70399999619 seconds ---
+NOT MOUSE
+150
+--- 9.70399999619 seconds ---
+NOT MOUSE
+151
+--- 9.70399999619 seconds ---
+NOT MOUSE
+152
+--- 9.70399999619 seconds ---
+NOT MOUSE
+153
+--- 9.70399999619 seconds ---
+[]
+GSE14459-GPL1261_series_matrix.txtimp_info.txt
+match not found yet for these rules
+154
+--- 9.73600006104 seconds ---
+[]
+GSE14460-GPL7521_series_matrix.txtimp_info.txt
+match not found yet for these rules
+155
+--- 9.73600006104 seconds ---
+NOT MOUSE
+156
+--- 9.73600006104 seconds ---
+NOT MOUSE
+157
+--- 9.73600006104 seconds ---
+NOT MOUSE
+158
+--- 9.73600006104 seconds ---
+NOT MOUSE
+159
+--- 9.73600006104 seconds ---
+NOT MOUSE
+160
+--- 9.73600006104 seconds ---
+NOT MOUSE
+161
+--- 9.73600006104 seconds ---
+NOT MOUSE
+162
+--- 9.73600006104 seconds ---
+NOT MOUSE
+163
+--- 9.73600006104 seconds ---
+NOT MOUSE
+164
+--- 9.73600006104 seconds ---
+NOT MOUSE
+165
+--- 9.73600006104 seconds ---
+nras lacking
+ras lacking
+h-ras lacking
+ras knockout
+h-ras knockout
+erk activation
+activation four
+ras activation
+h-ras activation
+stat1 activation
+activation five
+[(1.37, 'erk'), (0.24, 'stat1')]
+GSE14829_series_matrix.txtimp_info.txt
+the GS modified is 'erk' with confidence 1.370000
+166
+--- 11.2230000496 seconds ---
+[]
+GSE14833_series_matrix.txtimp_info.txt
+match not found yet for these rules
+167
+--- 11.2230000496 seconds ---
+osteopontin stimulated
+osteopontin treated
+osteopontin stimulation
+[]
+GSE14843-GPL1261_series_matrix.txtimp_info.txt
+match not found yet for these rules
+168
+--- 12.2920000553 seconds ---
+NOT MOUSE
+169
+--- 12.2929999828 seconds ---
+NOT MOUSE
+170
+--- 12.2929999828 seconds ---
+NOT MOUSE
+171
+--- 12.2929999828 seconds ---
+NOT MOUSE
+172
+--- 12.2929999828 seconds ---
+rac1 haploinsufficiency
+ecs deletion
+rac1 deletion
+[]
+GSE15003_series_matrix.txtimp_info.txt
+match not found yet for these rules
+173
+--- 12.6930000782 seconds ---
+[]
+GSE15058_series_matrix.txtimp_info.txt
+match not found yet for these rules
+174
+--- 12.6940000057 seconds ---
+NOT MOUSE
+175
+--- 12.6940000057 seconds ---
+NOT MOUSE
+176
+--- 12.6940000057 seconds ---
+NOT MOUSE
+177
+--- 12.6940000057 seconds ---
+NOT MOUSE
+178
+--- 12.6949999332 seconds ---
+NOT MOUSE
+179
+--- 12.6949999332 seconds ---
+[]
+GSE15181-GPL1261_series_matrix.txtimp_info.txt
+match not found yet for these rules
+180
+--- 12.6949999332 seconds ---
+NOT MOUSE
+181
+--- 12.6960000992 seconds ---
+NOT MOUSE
+182
+--- 12.6960000992 seconds ---
+NOT MOUSE
+183
+--- 12.6960000992 seconds ---
+[]
+GSE15232_series_matrix.txtimp_info.txt
+match not found yet for these rules
+184
+--- 12.7980000973 seconds ---
+NOT MOUSE
+185
+--- 12.7980000973 seconds ---
+NOT MOUSE
+186
+--- 12.7990000248 seconds ---
+NOT MOUSE
+187
+--- 12.7990000248 seconds ---
+ras mutant
+k-ras mutant
+p53 mutant
+[]
+GSE15587_series_matrix.txtimp_info.txt
+match not found yet for these rules
+188
+--- 13.4100000858 seconds ---
+[]
+GSE15604_series_matrix.txtimp_info.txt
+match not found yet for these rules
+189
+--- 13.6040000916 seconds ---
+NOT MOUSE
+190
+--- 13.6040000916 seconds ---
+NOT MOUSE
+191
+--- 13.6040000916 seconds ---
+NOT MOUSE
+192
+--- 13.6040000916 seconds ---
+NOT MOUSE
+193
+--- 13.6050000191 seconds ---
+NOT MOUSE
+194
+--- 13.6050000191 seconds ---
+NOT MOUSE
+195
+--- 13.6050000191 seconds ---
+NOT MOUSE
+196
+--- 13.6050000191 seconds ---
+NOT MOUSE
+197
+--- 13.6050000191 seconds ---
+tsg activation
+tsg-6 activation
+[]
+GSE15969-GPL570_series_matrix.txtimp_info.txt
+match not found yet for these rules
+198
+--- 13.7720000744 seconds ---
+NOT MOUSE
+199
+--- 13.7880001068 seconds ---
+NOT MOUSE
+200
+--- 13.7880001068 seconds ---
+NOT MOUSE
+201
+--- 13.7880001068 seconds ---
+NOT MOUSE
+202
+--- 13.7880001068 seconds ---
+NOT MOUSE
+203
+--- 13.7880001068 seconds ---
+NOT MOUSE
+204
+--- 13.7880001068 seconds ---
+NOT MOUSE
+205
+--- 13.7880001068 seconds ---
+NOT MOUSE
+206
+--- 13.7880001068 seconds ---
+NOT MOUSE
+207
+--- 13.7880001068 seconds ---
+NOT MOUSE
+208
+--- 13.7880001068 seconds ---
+NOT MOUSE
+209
+--- 13.7880001068 seconds ---
+NOT MOUSE
+210
+--- 13.7880001068 seconds ---
+NOT MOUSE
+211
+--- 13.7880001068 seconds ---
+NOT MOUSE
+212
+--- 13.7880001068 seconds ---
+NOT MOUSE
+213
+--- 13.7880001068 seconds ---
+NOT MOUSE
+214
+--- 13.7880001068 seconds ---
+NOT MOUSE
+215
+--- 13.7880001068 seconds ---
+NOT MOUSE
+216
+--- 13.7880001068 seconds ---
+NOT MOUSE
+217
+--- 13.7880001068 seconds ---
+NOT MOUSE
+218
+--- 13.7880001068 seconds ---
+NOT MOUSE
+219
+--- 13.7880001068 seconds ---
+NOT MOUSE
+220
+--- 13.7880001068 seconds ---
+NOT MOUSE
+221
+--- 13.7880001068 seconds ---
+NOT MOUSE
+222
+--- 13.7880001068 seconds ---
+[]
+GSE16636_series_matrix.txtimp_info.txt
+match not found yet for these rules
+223
+--- 14.3459999561 seconds ---
+NOT MOUSE
+224
+--- 14.3459999561 seconds ---
+NOT MOUSE
+225
+--- 14.3459999561 seconds ---
+NOT MOUSE
+226
+--- 14.3459999561 seconds ---
+tlr4 deficient
+--fullstop
+tlr4 activation
+bcl6 stimulated
+[]
+GSE16723-GPL9250_series_matrix.txtimp_info.txt
+match not found yet for these rules
+227
+--- 15.0869998932 seconds ---
+NOT MOUSE
+228
+--- 15.0880000591 seconds ---
+hira -/-
+[]
+GSE16893_series_matrix.txtimp_info.txt
+match not found yet for these rules
+229
+--- 15.381000042 seconds ---
+NOT MOUSE
+230
+--- 15.381000042 seconds ---
+NOT MOUSE
+231
+--- 15.381000042 seconds ---
+NOT MOUSE
+232
+--- 15.381000042 seconds ---
+NOT MOUSE
+233
+--- 15.3819999695 seconds ---
+socs expressing
+[]
+GSE17063_series_matrix.txtimp_info.txt
+match not found yet for these rules
+234
+--- 15.6199998856 seconds ---
+NOT MOUSE
+235
+--- 15.6199998856 seconds ---
+NOT MOUSE
+236
+--- 15.6199998856 seconds ---
+[]
+GSE17132_series_matrix.txtimp_info.txt
+match not found yet for these rules
+237
+--- 15.6199998856 seconds ---
+e3 inhibition
+e3 activation
+[]
+GSE17133_series_matrix.txtimp_info.txt
+match not found yet for these rules
+238
+--- 15.8329999447 seconds ---
+NOT MOUSE
+239
+--- 15.8329999447 seconds ---
+NOT MOUSE
+240
+--- 15.8329999447 seconds ---
+smoothened activation
+line start7
+activation five
+smo activation
+activation five
+[(0.8904, 'smoothened'), (0.24, 'smo')]
+GSE17263_series_matrix.txtimp_info.txt
+the GS modified is 'smoothened' with confidence 0.890400
+241
+--- 16.4400000572 seconds ---
+NOT MOUSE
+242
+--- 16.4400000572 seconds ---
+NOT MOUSE
+243
+--- 16.4560000896 seconds ---
+NOT MOUSE
+244
+--- 16.4560000896 seconds ---
+NOT MOUSE
+245
+--- 16.4570000172 seconds ---
+NOT MOUSE
+246
+--- 16.4570000172 seconds ---
+NOT MOUSE
+247
+--- 16.4570000172 seconds ---
+NOT MOUSE
+248
+--- 16.4570000172 seconds ---
+NOT MOUSE
+249
+--- 16.4570000172 seconds ---
+NOT MOUSE
+250
+--- 16.4579999447 seconds ---
+NOT MOUSE
+251
+--- 16.4579999447 seconds ---
+NOT MOUSE
+252
+--- 16.4579999447 seconds ---
+[]
+GSE17576_series_matrix.txtimp_info.txt
+match not found yet for these rules
+253
+--- 16.6199998856 seconds ---
+ccsp expressing
+tk expressing
+[]
+GSE17693_series_matrix.txtimp_info.txt
+match not found yet for these rules
+254
+--- 16.9600000381 seconds ---
+NOT MOUSE
+255
+--- 16.9609999657 seconds ---
+NOT MOUSE
+256
+--- 16.9609999657 seconds ---
+NOT MOUSE
+257
+--- 16.9609999657 seconds ---
+NOT MOUSE
+258
+--- 16.9609999657 seconds ---
+aryl hydrocarbon receptor treated
+aryl hydrocarbon receptor expressing
+ahr induced
+cyp1a1 induced
+[]
+GSE17925_series_matrix.txtimp_info.txt
+match not found yet for these rules
+259
+--- 18.6900000572 seconds ---
+NOT MOUSE
+260
+--- 18.6900000572 seconds ---
+NOT MOUSE
+261
+--- 18.6900000572 seconds ---
+NOT MOUSE
+262
+--- 18.6900000572 seconds ---
+NOT MOUSE
+263
+--- 18.6909999847 seconds ---
+NOT MOUSE
+264
+--- 18.6909999847 seconds ---
+NOT MOUSE
+265
+--- 18.6909999847 seconds ---
+NOT MOUSE
+266
+--- 18.6909999847 seconds ---
+NOT MOUSE
+267
+--- 18.6919999123 seconds ---
+NOT MOUSE
+268
+--- 18.6919999123 seconds ---
+bbf2h7 expressing
+p60 expressing
+bbf2h7 -/-
+minus two
+p60 -/-
+bbf2h7 expressing
+p60 expressing
+[(2.78, 'bbf2h7')]
+GSE18052-GPL1261_series_matrix.txtimp_info.txt
+the GS modified is 'bbf2h7' with confidence 2.780000
+269
+--- 19.4670000076 seconds ---
+NOT MOUSE
+270
+--- 19.4670000076 seconds ---
+NOT MOUSE
+271
+--- 19.4670000076 seconds ---
+NOT MOUSE
+272
+--- 19.4670000076 seconds ---
+NOT MOUSE
+273
+--- 19.4679999352 seconds ---
+NOT MOUSE
+274
+--- 19.4679999352 seconds ---
+[]
+GSE18221_series_matrix.txtimp_info.txt
+match not found yet for these rules
+275
+--- 19.4679999352 seconds ---
+NOT MOUSE
+276
+--- 19.4679999352 seconds ---
+NOT MOUSE
+277
+--- 19.4679999352 seconds ---
+NOT MOUSE
+278
+--- 19.4690001011 seconds ---
+NOT MOUSE
+279
+--- 19.4690001011 seconds ---
+NOT MOUSE
+280
+--- 19.4690001011 seconds ---
+NOT MOUSE
+281
+--- 19.4690001011 seconds ---
+NOT MOUSE
+282
+--- 19.4690001011 seconds ---
+[]
+GSE18524_series_matrix.txtimp_info.txt
+match not found yet for these rules
+283
+--- 19.506000042 seconds ---
+NOT MOUSE
+284
+--- 19.506000042 seconds ---
+NOT MOUSE
+285
+--- 19.506000042 seconds ---
+NOT MOUSE
+286
+--- 19.506000042 seconds ---
+teratoma inhibition
+erk activation
+mek activation
+ras activation
+teratoma activation
+--fullstop
+erk induced
+mek induced
+ras induced
+teratoma induced
+--fullstop
+[]
+GSE18660_series_matrix.txtimp_info.txt
+match not found yet for these rules
+287
+--- 21.3499999046 seconds ---
+NOT MOUSE
+288
+--- 21.3499999046 seconds ---
+NOT MOUSE
+289
+--- 21.3499999046 seconds ---
+NOT MOUSE
+290
+--- 21.3499999046 seconds ---
+NOT MOUSE
+291
+--- 21.3499999046 seconds ---
+NOT MOUSE
+292
+--- 21.3499999046 seconds ---
+NOT MOUSE
+293
+--- 21.3499999046 seconds ---
+bap treatment
+bap treatment
+bap treatment
+[]
+GSE18782_series_matrix.txtimp_info.txt
+match not found yet for these rules
+294
+--- 21.5169999599 seconds ---
+NOT MOUSE
+295
+--- 21.5169999599 seconds ---
+NOT MOUSE
+296
+--- 21.5169999599 seconds ---
+NOT MOUSE
+297
+--- 21.5169999599 seconds ---
+NOT MOUSE
+298
+--- 21.5169999599 seconds ---
+[]
+GSE18937_series_matrix.txtimp_info.txt
+match not found yet for these rules
+299
+--- 21.5669999123 seconds ---
+NOT MOUSE
+300
+--- 21.5669999123 seconds ---
+NOT MOUSE
+301
+--- 21.5820000172 seconds ---
+NOT MOUSE
+302
+--- 21.5820000172 seconds ---
+NOT MOUSE
+303
+--- 21.5820000172 seconds ---
+NOT MOUSE
+304
+--- 21.5820000172 seconds ---
+NOT MOUSE
+305
+--- 21.5820000172 seconds ---
+NOT MOUSE
+306
+--- 21.5820000172 seconds ---
+NOT MOUSE
+307
+--- 21.5820000172 seconds ---
+NOT MOUSE
+308
+--- 21.5820000172 seconds ---
+NOT MOUSE
+309
+--- 21.5820000172 seconds ---
+NOT MOUSE
+310
+--- 21.5820000172 seconds ---
+ps induced
+tbx3 induced
+ps +
+plus one rule
+plus last option
+tbx3 +
+plus one rule
+plus last option
+[]
+GSE19164_series_matrix.txtimp_info.txt
+match not found yet for these rules
+311
+--- 22.1349999905 seconds ---
+[]
+GSE19169-GPL6449_series_matrix.txtimp_info.txt
+match not found yet for these rules
+312
+--- 22.1349999905 seconds ---
+shh -/-
+shh treated
+bmi-1 treated
+[]
+GSE19176_series_matrix.txtimp_info.txt
+match not found yet for these rules
+313
+--- 22.3199999332 seconds ---
+cbfb expressing
+csf2rb expressing
+cbfb inhibition
+myh11 inhibition
+cbfb -/-
+minus two
+myh11 -/-
+cbfb null
+myh11 null
+cbfb expressing
+myh11 expressing
+cbfb -/-
+minus two
+cbfb -/-
+minus two
+[(2.78, 'cbfb'), (2.78, 'cbfb'), (2.78, 'cbfb')]
+GSE19194_series_matrix.txtimp_info.txt
+the GS modified is 'cbfb' with confidence 2.780000
+314
+--- 23.2000000477 seconds ---
+NOT MOUSE
+315
+--- 23.2000000477 seconds ---
+NOT MOUSE
+316
+--- 23.2000000477 seconds ---
+NOT MOUSE
+317
+--- 23.2000000477 seconds ---
+vrk1 -/-
+minus two
+vrk1 mutant
+vrk1 -/-
+minus two
+vrk1 -/-
+minus two
+vrk1 mutant
+[(2.78, 'vrk1'), (2.78, 'vrk1'), (2.78, 'vrk1')]
+GSE19329_series_matrix.txtimp_info.txt
+the GS modified is 'vrk1' with confidence 2.780000
+318
+--- 23.5220000744 seconds ---
+NOT MOUSE
+319
+--- 23.5220000744 seconds ---
+NOT MOUSE
+320
+--- 23.5220000744 seconds ---
+NOT MOUSE
+321
+--- 23.5220000744 seconds ---
+NOT MOUSE
+322
+--- 23.5220000744 seconds ---
+NOT MOUSE
+323
+--- 23.5220000744 seconds ---
+NOT MOUSE
+324
+--- 23.5220000744 seconds ---
+NOT MOUSE
+325
+--- 23.5220000744 seconds ---
+NOT MOUSE
+326
+--- 23.5220000744 seconds ---
+NOT MOUSE
+327
+--- 23.5220000744 seconds ---
+NOT MOUSE
+328
+--- 23.5220000744 seconds ---
+NOT MOUSE
+329
+--- 23.5220000744 seconds ---
+NOT MOUSE
+330
+--- 23.5220000744 seconds ---
+NOT MOUSE
+331
+--- 23.5220000744 seconds ---
+NOT MOUSE
+332
+--- 23.5220000744 seconds ---
+NOT MOUSE
+333
+--- 23.5220000744 seconds ---
+NOT MOUSE
+334
+--- 23.5220000744 seconds ---
+NOT MOUSE
+335
+--- 23.5220000744 seconds ---
+beta-galactosidase expressing
+[]
+GSE19757_series_matrix.txtimp_info.txt
+match not found yet for these rules
+336
+--- 23.6180000305 seconds ---
+NOT MOUSE
+337
+--- 23.6180000305 seconds ---
+megalin expressing
+[]
+GSE19778_series_matrix.txtimp_info.txt
+match not found yet for these rules
+338
+--- 23.8229999542 seconds ---
+NOT MOUSE
+339
+--- 23.8229999542 seconds ---
+NOT MOUSE
+340
+--- 23.8229999542 seconds ---
+NOT MOUSE
+341
+--- 23.8229999542 seconds ---
+NOT MOUSE
+342
+--- 23.8229999542 seconds ---
+NOT MOUSE
+343
+--- 23.8229999542 seconds ---
+NOT MOUSE
+344
+--- 23.8229999542 seconds ---
+NOT MOUSE
+345
+--- 23.8229999542 seconds ---
+aid deficient
+deficient one
+bs deficient
+np95 deficient
+aid deficient
+deficient one
+[(3.45, 'aid'), (3.45, 'aid')]
+GSE19960-GPL9250_series_matrix.txtimp_info.txt
+the GS modified is 'aid' with confidence 3.450000
+346
+--- 24.3989999294 seconds ---
+NOT MOUSE
+347
+--- 24.3989999294 seconds ---
+NOT MOUSE
+348
+--- 24.3989999294 seconds ---
+NOT MOUSE
+349
+--- 24.3989999294 seconds ---
+NOT MOUSE
+350
+--- 24.3989999294 seconds ---
+NOT MOUSE
+351
+--- 24.3989999294 seconds ---
+NOT MOUSE
+352
+--- 24.3989999294 seconds ---
+[]
+GSE30202-GPL11002_series_matrix.txtimp_info.txt
+match not found yet for these rules
+353
+--- 24.5859999657 seconds ---
+NOT MOUSE
+354
+--- 24.5859999657 seconds ---
+NOT MOUSE
+355
+--- 24.5859999657 seconds ---
+NOT MOUSE
+356
+--- 24.5859999657 seconds ---
+NOT MOUSE
+357
+--- 24.5859999657 seconds ---
+NOT MOUSE
+358
+--- 24.5859999657 seconds ---
+fancc deficient
+line start7
+fancc deficient
+tnf deficient
+tnf induced
+fancc deficient
+[(3.71, 'fancc')]
+GSE30318_series_matrix.txtimp_info.txt
+the GS modified is 'fancc' with confidence 3.710000
+359
+--- 24.9240000248 seconds ---
+NOT MOUSE
+360
+--- 24.9240000248 seconds ---
+NOT MOUSE
+361
+--- 24.9240000248 seconds ---
+[]
+GSE30437-GPL1261_series_matrix.txtimp_info.txt
+match not found yet for these rules
+362
+--- 24.9240000248 seconds ---
+[]
+GSE30457_series_matrix.txtimp_info.txt
+match not found yet for these rules
+363
+--- 25.0880000591 seconds ---
+NOT MOUSE
+364
+--- 25.0880000591 seconds ---
+NOT MOUSE
+365
+--- 25.0880000591 seconds ---
+NOT MOUSE
+366
+--- 25.0880000591 seconds ---
+[]
+GSE30637_series_matrix.txtimp_info.txt
+match not found yet for these rules
+367
+--- 25.1559998989 seconds ---
+NOT MOUSE
+368
+--- 25.1559998989 seconds ---
+NOT MOUSE
+369
+--- 25.1559998989 seconds ---
+NOT MOUSE
+370
+--- 25.1559998989 seconds ---
+NOT MOUSE
+371
+--- 25.1559998989 seconds ---
+NOT MOUSE
+372
+--- 25.1559998989 seconds ---
+NOT MOUSE
+373
+--- 25.1559998989 seconds ---
+med12 knockdown
+[]
+GSE30816_series_matrix.txtimp_info.txt
+match not found yet for these rules
+374
+--- 25.1870000362 seconds ---
+NOT MOUSE
+375
+--- 25.1870000362 seconds ---
+NOT MOUSE
+376
+--- 25.1870000362 seconds ---
+[]
+GSE30846_series_matrix.txtimp_info.txt
+match not found yet for these rules
+377
+--- 25.1870000362 seconds ---
+[]
+GSE30866-GPL13112_series_matrix.txtimp_info.txt
+match not found yet for these rules
+378
+--- 25.2030000687 seconds ---
+NOT MOUSE
+379
+--- 25.2030000687 seconds ---
+NOT MOUSE
+380
+--- 25.2030000687 seconds ---
+NOT MOUSE
+381
+--- 25.2179999352 seconds ---
+NOT MOUSE
+382
+--- 25.2179999352 seconds ---
+NOT MOUSE
+383
+--- 25.2190001011 seconds ---
+NOT MOUSE
+384
+--- 25.2190001011 seconds ---
+NOT MOUSE
+385
+--- 25.2190001011 seconds ---
+NOT MOUSE
+386
+--- 25.2190001011 seconds ---
+NOT MOUSE
+387
+--- 25.2190001011 seconds ---
+NOT MOUSE
+388
+--- 25.2190001011 seconds ---
+NOT MOUSE
+389
+--- 25.2200000286 seconds ---
+NOT MOUSE
+390
+--- 25.2200000286 seconds ---
+NOT MOUSE
+391
+--- 25.2200000286 seconds ---
+NOT MOUSE
+392
+--- 25.2200000286 seconds ---
+NOT MOUSE
+393
+--- 25.2200000286 seconds ---
+NOT MOUSE
+394
+--- 25.2200000286 seconds ---
+[]
+GSE31166_series_matrix.txtimp_info.txt
+match not found yet for these rules
+395
+--- 25.2699999809 seconds ---
+NOT MOUSE
+396
+--- 25.2699999809 seconds ---
+NOT MOUSE
+397
+--- 25.2699999809 seconds ---
+[]
+GSE31223-GPL11002_series_matrix.txtimp_info.txt
+match not found yet for these rules
+398
+--- 25.3020000458 seconds ---
+NOT MOUSE
+399
+--- 25.3020000458 seconds ---
+gata1 activation
+[]
+GSE31331-GPL11002_series_matrix.txtimp_info.txt
+match not found yet for these rules
+400
+--- 25.5090000629 seconds ---
+NOT MOUSE
+401
+--- 25.5090000629 seconds ---
+NOT MOUSE
+402
+--- 25.5090000629 seconds ---
+NOT MOUSE
+403
+--- 25.5090000629 seconds ---
+NOT MOUSE
+404
+--- 25.5090000629 seconds ---
+NOT MOUSE
+405
+--- 25.5090000629 seconds ---
+braf activation
+fign activation
+activation five
+[(0.24, 'fign')]
+GSE31409_series_matrix.txtimp_info.txt
+the GS modified is 'fign' with confidence 0.240000
+406
+--- 25.9579999447 seconds ---
+NOT MOUSE
+407
+--- 25.9579999447 seconds ---
+NOT MOUSE
+408
+--- 25.9579999447 seconds ---
+NOT MOUSE
+409
+--- 25.9579999447 seconds ---
+NOT MOUSE
+410
+--- 25.9579999447 seconds ---
+[]
+GSE31559-GPL3677_series_matrix.txtimp_info.txt
+match not found yet for these rules
+411
+--- 25.989000082 seconds ---
+[]
+GSE31561_series_matrix.txtimp_info.txt
+match not found yet for these rules
+412
+--- 26.0269999504 seconds ---
+NOT MOUSE
+413
+--- 26.0269999504 seconds ---
+NOT MOUSE
+414
+--- 26.0269999504 seconds ---
+NOT MOUSE
+415
+--- 26.0269999504 seconds ---
+NOT MOUSE
+416
+--- 26.0269999504 seconds ---
+brg1 knockdown
+mbd3 knockdown
+[]
+GSE31690_series_matrix.txtimp_info.txt
+match not found yet for these rules
+417
+--- 26.0929999352 seconds ---
+[]
+GSE31702_series_matrix.txtimp_info.txt
+match not found yet for these rules
+418
+--- 26.5580000877 seconds ---
+NOT MOUSE
+419
+--- 26.5580000877 seconds ---
+NOT MOUSE
+420
+--- 26.5580000877 seconds ---
+NOT MOUSE
+421
+--- 26.5580000877 seconds ---
+NOT MOUSE
+422
+--- 26.5580000877 seconds ---
+NOT MOUSE
+423
+--- 26.5580000877 seconds ---
+NOT MOUSE
+424
+--- 26.5580000877 seconds ---
+NOT MOUSE
+425
+--- 26.5580000877 seconds ---
+apoe ko
+apoe ko
+apoe ko
+apoe ko
+[]
+GSE31947_series_matrix.txtimp_info.txt
+match not found yet for these rules
+426
+--- 26.7279999256 seconds ---
+[]
+GSE31957-GPL8527_series_matrix.txtimp_info.txt
+match not found yet for these rules
+427
+--- 26.7279999256 seconds ---
+NOT MOUSE
+428
+--- 26.7279999256 seconds ---
+NOT MOUSE
+429
+--- 26.7279999256 seconds ---
+[]
+GSE32111_series_matrix.txtimp_info.txt
+match not found yet for these rules
+430
+--- 26.7279999256 seconds ---
+[]
+GSE32320-GPL11002_series_matrix.txtimp_info.txt
+match not found yet for these rules
+431
+--- 26.7279999256 seconds ---
+NOT MOUSE
+432
+--- 26.7279999256 seconds ---
+NOT MOUSE
+433
+--- 26.7279999256 seconds ---
+NOT MOUSE
+434
+--- 26.7279999256 seconds ---
+NOT MOUSE
+435
+--- 26.7279999256 seconds ---
+NOT MOUSE
+436
+--- 26.7279999256 seconds ---
+dnmt3a deficient
+deficient one
+[(3.45, 'dnmt3a')]
+GSE32487-GPL9250_series_matrix.txtimp_info.txt
+the GS modified is 'dnmt3a' with confidence 3.450000
+437
+--- 26.7739999294 seconds ---
+ab treated
+tau treated
+ppar treatment
+[]
+GSE32536_series_matrix.txtimp_info.txt
+match not found yet for these rules
+438
+--- 27.4119999409 seconds ---
+NOT MOUSE
+439
+--- 27.4119999409 seconds ---
+[]
+GSE32587-GPL9185_series_matrix.txtimp_info.txt
+match not found yet for these rules
+440
+--- 27.4119999409 seconds ---
+NOT MOUSE
+441
+--- 27.4119999409 seconds ---
+NOT MOUSE
+442
+--- 27.4119999409 seconds ---
+NOT MOUSE
+443
+--- 27.4119999409 seconds ---
+NOT MOUSE
+444
+--- 27.4119999409 seconds ---
+NOT MOUSE
+445
+--- 27.4119999409 seconds ---
+NOT MOUSE
+446
+--- 27.4119999409 seconds ---
+[]
+GSE32697_series_matrix.txtimp_info.txt
+match not found yet for these rules
+447
+--- 27.6370000839 seconds ---
+NOT MOUSE
+448
+--- 27.6370000839 seconds ---
+NOT MOUSE
+449
+--- 27.6370000839 seconds ---
+NOT MOUSE
+450
+--- 27.6370000839 seconds ---
+NOT MOUSE
+451
+--- 27.6370000839 seconds ---
+NOT MOUSE
+452
+--- 27.6370000839 seconds ---
+NOT MOUSE
+453
+--- 27.6370000839 seconds ---
+NOT MOUSE
+454
+--- 27.6370000839 seconds ---
+NOT MOUSE
+455
+--- 27.6370000839 seconds ---
+NOT MOUSE
+456
+--- 27.6370000839 seconds ---
+NOT MOUSE
+457
+--- 27.6370000839 seconds ---
+NOT MOUSE
+458
+--- 27.6370000839 seconds ---
+NOT MOUSE
+459
+--- 27.6370000839 seconds ---
+NOT MOUSE
+460
+--- 27.6370000839 seconds ---
+NOT MOUSE
+461
+--- 27.6370000839 seconds ---
+NOT MOUSE
+462
+--- 27.6370000839 seconds ---
+NOT MOUSE
+463
+--- 27.6370000839 seconds ---
+NOT MOUSE
+464
+--- 27.6370000839 seconds ---
+nemo knockout
+nemo deletion
+nemo -/-
+nemo null
+[]
+GSE33161_series_matrix.txtimp_info.txt
+match not found yet for these rules
+465
+--- 28.9769999981 seconds ---
+NOT MOUSE
+466
+--- 28.9769999981 seconds ---
+NOT MOUSE
+467
+--- 28.9769999981 seconds ---
+NOT MOUSE
+468
+--- 28.9769999981 seconds ---
+myc -/-
+nestin -/-
+myc overexpression
+overexpression one
+cdkn2c overexpression
+trp53 overexpression
+[(0.37, 'myc')]
+GSE33199_series_matrix.txtimp_info.txt
+the GS modified is 'myc' with confidence 0.370000
+469
+--- 29.3970000744 seconds ---
+NOT MOUSE
+470
+--- 29.3970000744 seconds ---
+NOT MOUSE
+471
+--- 29.3970000744 seconds ---
+NOT MOUSE
+472
+--- 29.3970000744 seconds ---
+NOT MOUSE
+473
+--- 29.3970000744 seconds ---
+NOT MOUSE
+474
+--- 29.3970000744 seconds ---
+NOT MOUSE
+475
+--- 29.3970000744 seconds ---
+NOT MOUSE
+476
+--- 29.3970000744 seconds ---
+NOT MOUSE
+477
+--- 29.3970000744 seconds ---
+NOT MOUSE
+478
+--- 29.3970000744 seconds ---
+NOT MOUSE
+479
+--- 29.3970000744 seconds ---
+NOT MOUSE
+480
+--- 29.3970000744 seconds ---
+NOT MOUSE
+481
+--- 29.3970000744 seconds ---
+NOT MOUSE
+482
+--- 29.3970000744 seconds ---
+NOT MOUSE
+483
+--- 29.3970000744 seconds ---
+[]
+GSE33609-GPL4134_series_matrix.txtimp_info.txt
+match not found yet for these rules
+484
+--- 29.4309999943 seconds ---
+tfiid knockdown
+[]
+GSE33645_series_matrix.txtimp_info.txt
+match not found yet for these rules
+485
+--- 29.8310000896 seconds ---
+cbfb knockdown
+ring1b knockdown
+[]
+GSE33659_series_matrix.txtimp_info.txt
+match not found yet for these rules
+486
+--- 29.871999979 seconds ---
+NOT MOUSE
+487
+--- 29.871999979 seconds ---
+NOT MOUSE
+488
+--- 29.871999979 seconds ---
+NOT MOUSE
+489
+--- 29.8729999065 seconds ---
+fcr ko
+fcr ko
+iib ko
+fc ko
+fc receptor ko
+iib ko
+fc ko
+fc receptor ko
+ic stimulated
+ic stimulation
+[]
+GSE33718_series_matrix.txtimp_info.txt
+match not found yet for these rules
+490
+--- 30.2309999466 seconds ---
+lect2 treatment
+lect2 exposure
+--fullstop
+[]
+GSE33721_series_matrix.txtimp_info.txt
+match not found yet for these rules
+491
+--- 30.493999958 seconds ---
+NOT MOUSE
+492
+--- 30.493999958 seconds ---
+[]
+GSE33761_series_matrix.txtimp_info.txt
+match not found yet for these rules
+493
+--- 30.493999958 seconds ---
+kdm1a mutant
+[]
+GSE33763_series_matrix.txtimp_info.txt
+match not found yet for these rules
+494
+--- 30.6459999084 seconds ---
+[]
+GSE33791_series_matrix.txtimp_info.txt
+match not found yet for these rules
+495
+--- 30.6459999084 seconds ---
+[]
+GSE33822-GPL6246_series_matrix.txtimp_info.txt
+match not found yet for these rules
+496
+--- 30.7520000935 seconds ---
+xs inactivation
+[]
+GSE33823_series_matrix.txtimp_info.txt
+match not found yet for these rules
+497
+--- 31.1949999332 seconds ---
+NOT MOUSE
+498
+--- 31.1949999332 seconds ---
+NOT MOUSE
+499
+--- 31.1949999332 seconds ---
+NOT MOUSE
+500
+--- 31.1949999332 seconds ---
+NOT MOUSE
+--- 31.1949999332 seconds ---
+[Finished in 31.3s]

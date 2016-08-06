@@ -1,0 +1,626 @@
+1
+--- 0.0839998722076 seconds ---
+[]
+GSE10004_series_matrix.txtimp_info.txt
+match not found yet for these rules
+2
+--- 0.0839998722076 seconds ---
+[]
+GSE10015-GPL1355_series_matrix.txtimp_info.txt
+match not found yet for these rules
+3
+--- 0.0839998722076 seconds ---
+hem1 deletion
+hem1 lacking
+hem1 mutant
+[]
+GSE10073_series_matrix.txtimp_info.txt
+match not found yet for these rules
+4
+--- 1.80799984932 seconds ---
+[]
+GSE10763_series_matrix.txtimp_info.txt
+match not found yet for these rules
+5
+--- 2.42999982834 seconds ---
+[]
+GSE10897-GPL6719_series_matrix.txtimp_info.txt
+match not found yet for these rules
+6
+--- 2.42999982834 seconds ---
+[]
+GSE10964-GPL1261_series_matrix.txtimp_info.txt
+match not found yet for these rules
+7
+--- 2.65199995041 seconds ---
+[]
+GSE11077-GPL6096_series_matrix.txtimp_info.txt
+match not found yet for these rules
+8
+--- 2.65199995041 seconds ---
+mmp9 inhibition
+matrix metalloproteinase 9 inhibition
+[]
+GSE11107_series_matrix.txtimp_info.txt
+match not found yet for these rules
+9
+--- 3.19000005722 seconds ---
+[]
+GSE11179_series_matrix.txtimp_info.txt
+match not found yet for these rules
+10
+--- 3.19000005722 seconds ---
+[]
+GSE11310_series_matrix.txtimp_info.txt
+match not found yet for these rules
+11
+--- 3.19000005722 seconds ---
+protein kinase inhibition
+[]
+GSE11576-GPL6449_series_matrix.txtimp_info.txt
+match not found yet for these rules
+12
+--- 4.30999994278 seconds ---
+[]
+GSE11619-GPL6905_series_matrix.txtimp_info.txt
+match not found yet for these rules
+13
+--- 4.78199982643 seconds ---
+[]
+GSE11672_series_matrix.txtimp_info.txt
+match not found yet for these rules
+14
+--- 4.91899991035 seconds ---
+prg mutant
+prg-1 mutant
+endo mutant
+keyword start7
+[(1.83, 'endo')]
+GSE11736_series_matrix.txtimp_info.txt
+the GS modified is 'endo' with confidence 1.830000
+15
+--- 5.3789999485 seconds ---
+[]
+GSE11889_series_matrix.txtimp_info.txt
+match not found yet for these rules
+16
+--- 6.6970000267 seconds ---
+nac induced
+induced two rule
+mef2 induced
+induced two rule
+[]
+GSE11939_series_matrix.txtimp_info.txt
+match not found yet for these rules
+17
+--- 7.46799993515 seconds ---
+[]
+GSE12131_series_matrix.txtimp_info.txt
+match not found yet for these rules
+18
+--- 7.58399987221 seconds ---
+[]
+GSE12312_series_matrix.txtimp_info.txt
+match not found yet for these rules
+19
+--- 8.26999998093 seconds ---
+tramp silencing
+[]
+GSE12416_series_matrix.txtimp_info.txt
+match not found yet for these rules
+20
+--- 8.65599989891 seconds ---
+mycn loss of
+[]
+GSE12494-GPL2004_series_matrix.txtimp_info.txt
+match not found yet for these rules
+21
+--- 8.87199997902 seconds ---
+[]
+GSE12595-GPL6244_series_matrix.txtimp_info.txt
+match not found yet for these rules
+22
+--- 8.87199997902 seconds ---
+[]
+GSE12896-GPL3720_series_matrix.txtimp_info.txt
+match not found yet for these rules
+23
+--- 9.0039999485 seconds ---
+nova2 ko
+p10 ko
+nova2 ko
+p10 ko
+[]
+GSE12965-GPL6193_series_matrix.txtimp_info.txt
+match not found yet for these rules
+24
+--- 9.20399999619 seconds ---
+[]
+GSE13041-GPL570_series_matrix.txtimp_info.txt
+match not found yet for these rules
+25
+--- 9.34200000763 seconds ---
+rita treatment
+p53 inhibition
+rita treated
+p53 treated
+[]
+GSE13291_series_matrix.txtimp_info.txt
+match not found yet for these rules
+26
+--- 10.006000042 seconds ---
+bcg inhibition
+[]
+GSE13423_series_matrix.txtimp_info.txt
+match not found yet for these rules
+27
+--- 10.4600000381 seconds ---
+pi3k mutant
+--fullstop
+tra1 mutant
+[]
+GSE13561-GPL884_series_matrix.txtimp_info.txt
+match not found yet for these rules
+28
+--- 11.2739999294 seconds ---
+[]
+GSE13700-GPL7568_series_matrix.txtimp_info.txt
+match not found yet for these rules
+29
+--- 11.2749998569 seconds ---
+[]
+GSE13700-GPL7580_series_matrix.txtimp_info.txt
+match not found yet for these rules
+30
+--- 11.2749998569 seconds ---
+[]
+GSE13878_series_matrix.txtimp_info.txt
+match not found yet for these rules
+31
+--- 11.3910000324 seconds ---
+[]
+GSE14069_series_matrix.txtimp_info.txt
+match not found yet for these rules
+32
+--- 11.8509998322 seconds ---
+[]
+GSE14081_series_matrix.txtimp_info.txt
+match not found yet for these rules
+33
+--- 12.746999979 seconds ---
+[]
+GSE14339_series_matrix.txtimp_info.txt
+match not found yet for these rules
+34
+--- 13.6649999619 seconds ---
+um treated
+[]
+GSE14364-GPL8047_series_matrix.txtimp_info.txt
+match not found yet for these rules
+35
+--- 15.0959999561 seconds ---
+[]
+GSE14557_series_matrix.txtimp_info.txt
+match not found yet for these rules
+36
+--- 15.0969998837 seconds ---
+upp mutant
+upp deletion
+upp mutant
+[]
+GSE14622_series_matrix.txtimp_info.txt
+match not found yet for these rules
+37
+--- 15.7159998417 seconds ---
+[]
+GSE14931_series_matrix.txtimp_info.txt
+match not found yet for these rules
+38
+--- 15.8359999657 seconds ---
+nasp loss of
+fos inhibition
+--fullstop
+tnf inhibition
+--fullstop
+nasp inhibition
+egr1 inhibition
+--fullstop
+il6 inhibition
+--fullstop
+stat1 inhibition
+--fullstop
+nasp overexpression
+overexpression one
+nasp treatment
+ctp treated
+nasp treated
+[(0.37, 'nasp')]
+GSE14972_series_matrix.txtimp_info.txt
+the GS modified is 'nasp' with confidence 0.370000
+39
+--- 17.5 seconds ---
+[]
+GSE15112-GPL1708_series_matrix.txtimp_info.txt
+match not found yet for these rules
+40
+--- 17.5 seconds ---
+sd +
+plus one rule
+plus last option
+[]
+GSE15117_series_matrix.txtimp_info.txt
+match not found yet for these rules
+41
+--- 17.8569998741 seconds ---
+[]
+GSE15292-GPL9058_series_matrix.txtimp_info.txt
+match not found yet for these rules
+42
+--- 17.8569998741 seconds ---
+ifn-g induced
+il-10 induced
+il-5 induced
+ifn-g induced
+il-10 induced
+il-5 induced
+[]
+GSE15414_series_matrix.txtimp_info.txt
+match not found yet for these rules
+43
+--- 18.5590000153 seconds ---
+[]
+GSE15429-GPL3069_series_matrix.txtimp_info.txt
+match not found yet for these rules
+44
+--- 18.5590000153 seconds ---
+[]
+GSE15603_series_matrix.txtimp_info.txt
+match not found yet for these rules
+45
+--- 18.5590000153 seconds ---
+mtor treatment
+[]
+GSE15719-GPL4912_series_matrix.txtimp_info.txt
+match not found yet for these rules
+46
+--- 18.8059999943 seconds ---
+sec63 deletion
+[]
+GSE16135_series_matrix.txtimp_info.txt
+match not found yet for these rules
+47
+--- 19.2179999352 seconds ---
+[]
+GSE16222_series_matrix.txtimp_info.txt
+match not found yet for these rules
+48
+--- 21.1759998798 seconds ---
+bw +
+plus one rule
+plus last option
+sp +
+plus one rule
+plus last option
+[]
+GSE16328_series_matrix.txtimp_info.txt
+match not found yet for these rules
+49
+--- 21.388999939 seconds ---
+cd3 stimulated
+alcam +
+plus one rule
+plus last option
+cd3 +
+plus one rule
+plus last option
+il-2 +
+plus one rule
+plus last option
+[]
+GSE16331_series_matrix.txtimp_info.txt
+match not found yet for these rules
+50
+--- 21.861000061 seconds ---
+[]
+GSE16434_series_matrix.txtimp_info.txt
+match not found yet for these rules
+51
+--- 22.4210000038 seconds ---
+p53 loss of
+[]
+GSE16517_series_matrix.txtimp_info.txt
+match not found yet for these rules
+52
+--- 24.2249999046 seconds ---
+[]
+GSE16857_series_matrix.txtimp_info.txt
+match not found yet for these rules
+53
+--- 24.2249999046 seconds ---
+endo silencing
+--fullstop
+[]
+GSE17171_series_matrix.txtimp_info.txt
+match not found yet for these rules
+54
+--- 24.5420000553 seconds ---
+[]
+GSE17384_series_matrix.txtimp_info.txt
+match not found yet for these rules
+55
+--- 24.9609999657 seconds ---
+usf1 induced
+induced two rule
+usf1 overexpression
+overexpression one
+[(0.37, 'usf1')]
+GSE17442_series_matrix.txtimp_info.txt
+the GS modified is 'usf1' with confidence 0.370000
+56
+--- 25.2460000515 seconds ---
+[]
+GSE17684_series_matrix.txtimp_info.txt
+match not found yet for these rules
+57
+--- 25.2460000515 seconds ---
+erbb4 knockout
+erbb4 ko
+erbb4 ko
+erbb4 treated
+erbb2 overexpressing
+[]
+GSE17749-GPL871_series_matrix.txtimp_info.txt
+match not found yet for these rules
+58
+--- 27.7990000248 seconds ---
+bbb treated
+[]
+GSE17886_series_matrix.txtimp_info.txt
+match not found yet for these rules
+59
+--- 28.3009998798 seconds ---
+[]
+GSE17895_series_matrix.txtimp_info.txt
+match not found yet for these rules
+60
+--- 28.3009998798 seconds ---
+mek5 mutant
+erk5 activation
+[]
+GSE17939_series_matrix.txtimp_info.txt
+match not found yet for these rules
+61
+--- 28.5539999008 seconds ---
+[]
+GSE17955_series_matrix.txtimp_info.txt
+match not found yet for these rules
+62
+--- 28.5539999008 seconds ---
+[]
+GSE17971-GPL5439_series_matrix.txtimp_info.txt
+match not found yet for these rules
+63
+--- 28.5539999008 seconds ---
+[]
+GSE18019-GPL9154_series_matrix.txtimp_info.txt
+match not found yet for these rules
+64
+--- 28.5539999008 seconds ---
+[]
+GSE18257_series_matrix.txtimp_info.txt
+match not found yet for these rules
+65
+--- 29.1559998989 seconds ---
+[]
+GSE18375_series_matrix.txtimp_info.txt
+match not found yet for these rules
+66
+--- 29.1559998989 seconds ---
+[]
+GSE18405_series_matrix.txtimp_info.txt
+match not found yet for these rules
+67
+--- 29.1559998989 seconds ---
+rrf loss of
+rrf mutant
+[]
+GSE18429_series_matrix.txtimp_info.txt
+match not found yet for these rules
+68
+--- 30.2899999619 seconds ---
+[]
+GSE18776_series_matrix.txtimp_info.txt
+match not found yet for these rules
+69
+--- 30.2899999619 seconds ---
+akt induced
+akt activation
+akt induced
+--fullstop
+akt treated
+mer treated
+akt expressing
+mer expressing
+[]
+GSE18813_series_matrix.txtimp_info.txt
+match not found yet for these rules
+70
+--- 31.3079998493 seconds ---
+[]
+GSE18892-GPL570_series_matrix.txtimp_info.txt
+match not found yet for these rules
+71
+--- 31.5269999504 seconds ---
+ie induced
+induced two rule
+[]
+GSE19122_series_matrix.txtimp_info.txt
+match not found yet for these rules
+72
+--- 32.3759999275 seconds ---
+[]
+GSE19167-GPL6445_series_matrix.txtimp_info.txt
+match not found yet for these rules
+73
+--- 32.3759999275 seconds ---
+[]
+GSE19187_series_matrix.txtimp_info.txt
+match not found yet for these rules
+74
+--- 32.3759999275 seconds ---
+[]
+GSE19270_series_matrix.txtimp_info.txt
+match not found yet for these rules
+75
+--- 33.1779999733 seconds ---
+[]
+GSE19334-GPL9754_series_matrix.txtimp_info.txt
+match not found yet for these rules
+76
+--- 33.6159999371 seconds ---
+[]
+GSE19465-GPL9115_series_matrix.txtimp_info.txt
+match not found yet for these rules
+77
+--- 33.6159999371 seconds ---
+[]
+GSE19536-GPL8227_series_matrix.txtimp_info.txt
+match not found yet for these rules
+78
+--- 33.6159999371 seconds ---
+[]
+GSE19556-GPL97_series_matrix.txtimp_info.txt
+match not found yet for these rules
+79
+--- 33.6159999371 seconds ---
+[]
+GSE19595_series_matrix.txtimp_info.txt
+match not found yet for these rules
+80
+--- 34.5609998703 seconds ---
+[]
+GSE19902_series_matrix.txtimp_info.txt
+match not found yet for these rules
+81
+--- 34.5620000362 seconds ---
+[]
+GSE30280_series_matrix.txtimp_info.txt
+match not found yet for these rules
+82
+--- 34.5620000362 seconds ---
+[]
+GSE30408-GPL13822_series_matrix.txtimp_info.txt
+match not found yet for these rules
+83
+--- 34.8059999943 seconds ---
+[]
+GSE30450_series_matrix.txtimp_info.txt
+match not found yet for these rules
+84
+--- 34.8069999218 seconds ---
+nestin -/-
+pex5 -/-
+[]
+GSE31938_series_matrix.txtimp_info.txt
+match not found yet for these rules
+85
+--- 35.0420000553 seconds ---
+[]
+GSE32360_series_matrix.txtimp_info.txt
+match not found yet for these rules
+86
+--- 35.1489999294 seconds ---
+[]
+GSE32369_series_matrix.txtimp_info.txt
+match not found yet for these rules
+87
+--- 35.2809998989 seconds ---
+[]
+GSE32630_series_matrix.txtimp_info.txt
+match not found yet for these rules
+88
+--- 35.9349999428 seconds ---
+[]
+GSE32631_series_matrix.txtimp_info.txt
+match not found yet for these rules
+89
+--- 36.2349998951 seconds ---
+[]
+GSE32731_series_matrix.txtimp_info.txt
+match not found yet for these rules
+90
+--- 36.3989999294 seconds ---
+pyruvate carboxylase deficient
+pc deficient
+pepck deficient
+rop deficient
+pc deletion
+--fullstop
+rop deletion
+pyruvate carboxylase deletion
+--fullstop
+pc induced
+pepck induced
+rop induced
+[]
+GSE32948_series_matrix.txtimp_info.txt
+match not found yet for these rules
+91
+--- 37.7389998436 seconds ---
+[]
+GSE33023_series_matrix.txtimp_info.txt
+match not found yet for these rules
+92
+--- 37.7389998436 seconds ---
+[]
+GSE33245_series_matrix.txtimp_info.txt
+match not found yet for these rules
+93
+--- 37.7389998436 seconds ---
+[]
+GSE33252-GPL9250_series_matrix.txtimp_info.txt
+match not found yet for these rules
+94
+--- 37.8550000191 seconds ---
+[]
+GSE33266_series_matrix.txtimp_info.txt
+match not found yet for these rules
+95
+--- 37.8550000191 seconds ---
+vav2 knockdown
+vav2 expressing
+[]
+GSE33348_series_matrix.txtimp_info.txt
+match not found yet for these rules
+96
+--- 39.4509999752 seconds ---
+[]
+GSE33406_series_matrix.txtimp_info.txt
+match not found yet for these rules
+97
+--- 39.5850000381 seconds ---
+ra treated
+ra induced
+ra treated
+[]
+GSE33472_series_matrix.txtimp_info.txt
+match not found yet for these rules
+98
+--- 40.1019999981 seconds ---
+[]
+GSE33482_series_matrix.txtimp_info.txt
+match not found yet for these rules
+99
+--- 40.1029999256 seconds ---
+bv mutant
+waltzer mutant
+[]
+GSE33590_series_matrix.txtimp_info.txt
+match not found yet for these rules
+100
+--- 40.5709998608 seconds ---
+[]
+GSE33654_series_matrix.txtimp_info.txt
+match not found yet for these rules
+--- 40.5720000267 seconds ---
+[Finished in 40.8s]

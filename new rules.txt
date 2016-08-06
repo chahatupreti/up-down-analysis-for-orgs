@@ -1,0 +1,11 @@
+new rules - 
+1. GS is the start of the line (13475)
+2. To understand the function/role of GS (10250)
+3. GS is in the first line of summary (eg. the transcription factor gene sox9 plays various roles in development; 13482)
+4. Effect of GS... on (10684)
+5. In wildtype and GS (46530) (in all lines or just Title)
+6. if GS in 'Here we' line (73362)
+7. induced in response to GS (74605)
+8. Line having the word 'overexpression' (7863)
+9. Following treatment with (61555)
+10. 'With or without GS' in overall design (12875)

@@ -1,0 +1,185 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+overexpression one
+GSE17442_series_matrix.txtimp_info.txt
+the GS modified is 'usf1' with confidence 0.370000
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+--- 5.18099999428 seconds ---
+         1655181 function calls (1654628 primitive calls) in 5.059 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+     1926    2.570    0.001    2.904    0.002 D:\M.Tech work\proper\h_fgm.py:41(find_matches)
+      105    1.943    0.019    1.943    0.019 {open}
+     2185    0.049    0.000    0.280    0.000 {any}
+   513387    0.205    0.000    0.228    0.000 D:\M.Tech work\proper\h_fgm.py:59(<genexpr>)
+      104    0.097    0.001    0.097    0.001 {method 'readlines' of 'file' objects}
+   281134    0.048    0.000    0.048    0.000 {method 'lower' of 'str' objects}
+        2    0.000    0.000    0.036    0.018 C:\Anaconda\lib\os.py:209(walk)
+      100    0.033    0.000    0.033    0.000 {nt._isdir}
+   281134    0.027    0.000    0.027    0.000 {method 'rstrip' of 'str' objects}
+526574/526519    0.026    0.000    0.026    0.000 {len}
+       14    0.001    0.000    0.024    0.002 D:\M.Tech work\proper\rules1.py:7(cl)
+     4701    0.005    0.000    0.023    0.000 C:\Anaconda\lib\re.py:226(_compile)
+      306    0.000    0.000    0.021    0.000 C:\Anaconda\lib\re.py:139(search)
+     4299    0.003    0.000    0.019    0.000 C:\Anaconda\lib\re.py:164(split)
+       89    0.000    0.000    0.018    0.000 C:\Anaconda\lib\sre_compile.py:493(compile)
+     4299    0.010    0.000    0.010    0.000 {method 'split' of '_sre.SRE_Pattern' objects}
+      306    0.010    0.000    0.010    0.000 {method 'search' of '_sre.SRE_Pattern' objects}
+       89    0.000    0.000    0.010    0.000 C:\Anaconda\lib\sre_parse.py:677(parse)
+       96    0.000    0.000    0.010    0.000 C:\Anaconda\lib\re.py:144(sub)
+   183/89    0.001    0.000    0.009    0.000 C:\Anaconda\lib\sre_parse.py:301(_parse_sub)
+   192/98    0.003    0.000    0.008    0.000 C:\Anaconda\lib\sre_parse.py:379(_parse)
+       89    0.000    0.000    0.007    0.000 C:\Anaconda\lib\sre_compile.py:478(_code)
+      200    0.002    0.000    0.007    0.000 C:\Anaconda\lib\ntpath.py:62(join)
+   246/89    0.003    0.000    0.005    0.000 C:\Anaconda\lib\sre_compile.py:32(_compile)
+      400    0.002    0.000    0.005    0.000 C:\Anaconda\lib\ntpath.py:95(splitdrive)
+       96    0.003    0.000    0.003    0.000 {method 'sub' of '_sre.SRE_Pattern' objects}
+     1706    0.001    0.000    0.003    0.000 C:\Anaconda\lib\sre_parse.py:201(get)
+     1954    0.002    0.000    0.002    0.000 C:\Anaconda\lib\sre_parse.py:182(__next)
+       89    0.000    0.000    0.002    0.000 C:\Anaconda\lib\sre_compile.py:359(_compile_info)
+     4299    0.002    0.000    0.002    0.000 {filter}
+     2113    0.001    0.000    0.001    0.000 {method 'startswith' of 'str' objects}
+  296/143    0.001    0.000    0.001    0.000 C:\Anaconda\lib\sre_parse.py:140(getwidth)
+     1749    0.001    0.000    0.001    0.000 C:\Anaconda\lib\sre_parse.py:130(__getitem__)
+     4917    0.001    0.000    0.001    0.000 {method 'get' of 'dict' objects}
+        1    0.001    0.001    0.001    0.001 {nt.listdir}
+       55    0.001    0.000    0.001    0.000 {method 'split' of 'str' objects}
+     6058    0.001    0.000    0.001    0.000 {method 'append' of 'list' objects}
+     1457    0.001    0.000    0.001    0.000 C:\Anaconda\lib\sre_parse.py:138(append)
+      138    0.001    0.000    0.001    0.000 C:\Anaconda\lib\re.py:204(escape)
+     2016    0.001    0.000    0.001    0.000 {isinstance}
+      400    0.000    0.000    0.000    0.000 {method 'replace' of 'str' objects}
+      553    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_parse.py:195(match)
+       34    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_compile.py:178(_compile_charset)
+       28    0.000    0.000    0.000    0.000 {sorted}
+       89    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_parse.py:178(__init__)
+     1088    0.000    0.000    0.000    0.000 {_sre.getlower}
+      161    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_parse.py:257(_escape)
+       34    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_compile.py:207(_optimize_charset)
+      534    0.000    0.000    0.000    0.000 {min}
+      178    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_compile.py:472(isstring)
+      246    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_parse.py:90(__init__)
+       52    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_compile.py:354(_simple)
+       89    0.000    0.000    0.000    0.000 {_sre.compile}
+       90    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_parse.py:72(opengroup)
+      218    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_parse.py:126(__len__)
+      104    0.000    0.000    0.000    0.000 {method 'remove' of 'list' objects}
+       90    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_parse.py:83(closegroup)
+     1191    0.000    0.000    0.000    0.000 {ord}
+      201    0.000    0.000    0.000    0.000 {method 'join' of 'str' objects}
+       41    0.000    0.000    0.000    0.000 {method 'sort' of 'list' objects}
+       89    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_parse.py:67(__init__)
+       98    0.000    0.000    0.000    0.000 {range}
+      109    0.000    0.000    0.000    0.000 {max}
+      171    0.000    0.000    0.000    0.000 {abs}
+       89    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
+       52    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_parse.py:134(__setitem__)
+        2    0.000    0.000    0.000    0.000 {time.time}
+        1    0.000    0.000    0.000    0.000 D:\M.Tech work\proper\rules1.py:5(<module>)
+       21    0.000    0.000    0.000    0.000 D:\M.Tech work\proper\h_fgm.py:88(<lambda>)
+       22    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_compile.py:24(_identityfunction)
+        1    0.000    0.000    0.000    0.000 D:\M.Tech work\proper\h_fgm.py:137(<lambda>)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+
+[Finished in 6.1s]

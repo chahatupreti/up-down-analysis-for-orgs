@@ -1,0 +1,28 @@
+activation five	0.240409918	ra5
+activation four	1.371686619	ra4
+activation one	4.641588834	ra1
+activation three	10	ra3
+activation two	1	ra2
+deficient one	3.455107295	rd1
+deficient two	10	rd2
+fullstop	1.14879084	rg3
+gmks start7	1.232846739	rr1
+induced five	2.15443469	ri5
+induced four	10	ri4
+induced one	10	ri1
+induced three	2.424462017	ri3
+inhibition one	rin1
+keyword start7	1.832980711	rg1
+knkockout two7	10	rk2
+knockout one	10	rk1
+line start7	3.714432522	rg2
+minus one	rs1
+minus two	2.782559402	rs2
+mutant two	rm2
+overexpression one	0.370516318	ro1
+plus two	0.1	rs5
+stilulated one	0.464158883	rst1
+stimulated two	0.225393391	rst2
+treated one	0.177827941	rt1
+treated two	10	rt2
+treatment one	1.531740464	rt3

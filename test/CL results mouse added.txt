@@ -1,0 +1,58 @@
+[[1.83, 'sac']]
+
+GSE10113_series_matrix.txtimp_info.txt
+
+[[3.71, 'beta-catenin']]
+
+GSE10726_series_matrix.txtimp_info.txt
+
+[[-5.202999999999999, 'il-1']]
+
+GSE12285_series_matrix.txtimp_info.txt
+
+[[3.45, 'myc'], [3.45, 'n-myc']]
+
+GSE12538_series_matrix.txtimp_info.txt
+
+[[-1.37, 'erk'], [0.24, 'stat1']]
+
+GSE14829_series_matrix.txtimp_info.txt
+
+[[0.8904, 'smoothened'], [0.24, 'smo']]
+
+GSE17263_series_matrix.txtimp_info.txt
+
+[[-2.78, 'bbf2h7']]
+
+GSE18052-GPL1261_series_matrix.txtimp_info.txt
+
+[[-8.34, 'cbfb'], [0, 'cbfb'], [0, 'cbfb']]
+
+GSE19194_series_matrix.txtimp_info.txt
+
+[[-8.34, 'vrk1'], [0, 'vrk1'], [0, 'vrk1']]
+
+GSE19329_series_matrix.txtimp_info.txt
+
+[[6.9, 'aid'], [0, 'aid']]
+
+GSE19960-GPL9250_series_matrix.txtimp_info.txt
+
+[[3.71, 'fancc']]
+
+GSE30318_series_matrix.txtimp_info.txt
+
+[[0.24, 'fign']]
+
+GSE31409_series_matrix.txtimp_info.txt
+
+[[3.45, 'dnmt3a']]
+
+GSE32487-GPL9250_series_matrix.txtimp_info.txt
+
+[[0.37, 'myc']]
+
+GSE33199_series_matrix.txtimp_info.txt
+
+[Finished in 34.4s]
+[Finished in 0.1s]

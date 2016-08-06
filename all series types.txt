@@ -1,0 +1,27 @@
+!Series_type "Genome variation profiling by genome tiling array" -------------------
+!Series_type "Expression profiling by SNP array" ?????????????
+!Series_type "Expression profiling by array" +++++++++++++++++++++++
+!Series_type "Genome binding/occupancy profiling by SNP array" -----------------
+!Series_type "Methylation profiling by high throughput sequencing" --------------
+!Series_type "Methylation profiling by genome tiling array" -------------------
+!Series_type "Expression profiling by genome tiling array" ++++++++++++++++++
+!Series_type "Methylation profiling by SNP array" ------------
+!Series_type "Non-coding RNA profiling by array" ------------------
+!Series_type "Methylation profiling by array" -----------------
+!Series_type "Non-coding RNA profiling by high throughput sequencing" -------------
+!Series_type "Protein profiling by protein array"   ---------------
+!Series_type "Expression profiling by high throughput sequencing" ???????????
+!Series_type "Expression profiling by MPSS" // sounds like just a modification of rna-seq +++++++++++++
+!Series_type "Other" -------------- (1/60)
+!Series_type "Genome binding/occupancy profiling by genome tiling array" ------------------
+!Series_type "Genome binding/occupancy profiling by high throughput sequencing" -------------------
+!Series_type "Genome variation profiling by array" -----------------
+!Series_type "Expression profiling by RT-PCR" ++++++++++++++++
+!Series_type "SNP genotyping by SNP array"  
+!Series_type "Genome variation profiling by SNP array" -------------
+!Series_type "Non-coding RNA profiling by genome tiling array" ----------------
+!Series_type "Genome variation profiling by high throughput sequencing" ------------ 
+!Series_type "Genome binding/occupancy profiling by array" --------------------
+!Series_type "Protein profiling by Mass Spec" 
+!Series_type "Third-party reanalysis"
+!Series_type "Expression profiling by SAGE" +++++++++++++++++
